@@ -121,7 +121,7 @@
 
 ## Friday Pass Down (custody switch)
 
-**When the boys arrive (from their dad's):**
+**When Aaron gets off work (Friday):**
 - Level-set conversation. How was your week? How are you feeling? What's on your mind?
 - Inform them: here's what's coming up this week, here's how we're doing.
 - Space for them to share. Listen first.

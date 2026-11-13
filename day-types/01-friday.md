@@ -35,4 +35,4 @@ flowchart TD
 | Screens off | TBD ~9:30pm — ALL screens, no exceptions |
 | Bedtime | TBD ~10:00pm (same as Saturday) |
 
-> Friday is the arrival day. Every other week, Friday morning is a regular school day (see 04-school-day.md). The other week they come home to us after school. Either way, the pass down happens when they arrive, then the evening schedule applies (same as Saturday). Garbage is part of the floor — it gets done, but not a screen gate.
+> Friday is the arrival day. Every other week, Friday morning is a regular school day (see 04-school-day.md). The other week they come home to us after school. Either way, the pass down happens when Aaron gets off work, then the evening schedule applies (same as Saturday). Garbage is part of the floor — it gets done, but not a screen gate.
