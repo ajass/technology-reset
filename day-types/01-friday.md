@@ -28,11 +28,20 @@ flowchart TD
 
 | Rule | Detail |
 |------|--------|
-| Friday pass down | Level-set conversation when they arrive. How was your week? What's coming up? |
+| Friday pass down | Level-set conversation when I get home from work. How was your week? What's coming up? |
 | Garbage/recycling | Bins to garage — done as needed (alternates daily). Part of the floor, not a screen gate. |
 | Dishes | After dinner, both boys, together |
 | Dinner | No screens during dinner |
 | Screens off | TBD ~9:30pm — ALL screens, no exceptions |
 | Bedtime | TBD ~10:00pm (same as Saturday) |
 
-> Friday is the arrival day. Every other week, Friday morning is a regular school day (see 04-school-day.md). The other week they come home to us after school. Either way, the pass down happens when Aaron gets off work, then the evening schedule applies (same as Saturday). Garbage is part of the floor — it gets done, but not a screen gate.
+## Friday Pass Down (when I get home from work)
+
+When I get home from work on Friday:
+- Level-set conversation with the boys. How was your week? How are you feeling? What's on your mind?
+- Inform them: here's what's coming up this week, here's how we're doing.
+- Space for them to share. Listen first.
+
+---
+
+> Friday is the arrival day. Every other week, Friday morning is a regular school day (see 04-school-day.md). The other week they come home to us after school. Either way, the pass down happens when I get home from work, then the evening schedule applies (same as Saturday). Garbage is part of the floor — it gets done, but not a screen gate.
