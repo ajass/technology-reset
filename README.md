@@ -69,7 +69,7 @@ The floor itself doesn't change. These are non-negotiable in Phase 1 and Phase 2
 
 - **Homework first, not time-based.** Responsibilities before screens, no clock to fight over.
 - **Garbage and recycling: part of the floor.** Done after dishes (week) / as needed (other days). Not a screen gate.
-- **Screens off at 9pm = ALL screens** (including reels). No co-watching exceptions.
+- **Screens off = ALL screens** (including reels). No co-watching exceptions. Weekdays: screens off at 9pm, in bed by 9:30pm. Friday and Saturday: screens off at 9:30pm, in bed by 10pm.
 - **Game-by-game evaluation.** Not platform bans — we approve individual titles.
 - **Weekly chores on Saturday.** Sunday is a spot check.
 - **Friday and Saturday are their own days.** School days are Monday-Thursday.
