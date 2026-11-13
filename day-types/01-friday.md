@@ -1,13 +1,13 @@
 # 01 — Friday
 
-*When boys arrive — evening with Aaron and Denise*
+*Our Friday — evening with Aaron and Denise*
 *Every other week they are with us Friday morning. That's just a regular school day — see [04 — School Day](04-school-day.md). The other week they come home to us after school. The Friday evening is the same either way.*
 
 ## Schedule — Week B (we pick them up after school)
 
 ```mermaid
 flowchart TD
-    A["🏫 Come home to us<br/>after school"] --> B["🏠 Home<br/>~4:00pm"]
+    A["🏫 Come home<br/>after school"] --> B["🏠 Home<br/>~4:00pm"]
     B --> C["📚 Homework first<br/>if any"]
     C --> D["🎮 Free time<br/>screens available"]
     D --> E["🍽️ Dinner"]
