@@ -29,7 +29,7 @@ Here are the specific daily rules, and we're putting them on the fridge so every
 - Bedtime is 9:30pm, same as your dad's house
 - Screens off 30 minutes before bedtime, so at 9:00pm — and that means ALL screens. Phones,, iPads,, TV, everything. Even reels.
 - No screens during dinner. Dinner is family time.
-- Garbage and recycling bins go out to the garage by 5:00pm. You alternate — Sean one day, Liam the next.
+- Garbage and recycling bins go out to the garage before screens. You alternate — Sean one day, Liam the next.
 - When we ask you to help with something that's not on the schedule — like holiday decorations or coming to Costco — you help. No pushback. That's part of being in this family.
 
 These aren't changing. They're staying up on the fridge for everyone to see.
@@ -74,7 +74,7 @@ Any questions?
 
 ## Practical Notes for Aaron and Denise
 
-1. **Deliver this together.** Both present, same message,, no disagreement in front of them. If you disagree, work it out beforehand.
+1. **Deliver this together.** Both present, same message, no disagreement in front of them. If you disagree, work it out beforehand.
 2. **Have the chore/homework schedule drafted before this conversation,** but present it as a draft they can give input on. "Here's what we're thinking. What do you think?" Not "here are your new chores."
 3. **Let them react.** They will have feelings about the Steam/Epic Games restriction. Acknowledge it ("we know that's disappointing") without relitigating it. The decision is made. But hear them out.
 4. **The 30-day trial start date should be concrete.** "Starting November 27" — the Monday after they're back from their dad's. Vague timelines invite testing.

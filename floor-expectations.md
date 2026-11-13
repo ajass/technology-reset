@@ -1,110 +1,118 @@
 # Floor Expectations
 
 **Aaron & Denise — Technology Reset for Sean & Liam**
-*Last updated: November 13, 2026*
+*Last updated: November 13,2026*
 
 ---
 
-## School Days (Mon-Fri, school in session)
-
-**Before screens:**
-- Homework first. If you have homework, it gets done before screens.
-- No recreational screens before school.
+## 01 — Friday (when boys arrive — evening with Aaron and Denise)
 
 **Daily tasks:**
-- Garbage and recycling bins taken out to garage by 5:00pm (alternates daily: Sean / Liam — rotation TBD with Denise)
+- Garbage and recycling bins taken out to garage — done before screens (alternates daily: Sean / Liam — rotation TBD with Denise)
 - Dishes after dinner (both boys, together)
 
 **Evening:**
-- Screens off at 9:00pm — **ALL screens**. Gaming, YouTube, TV, reels,, phones,, iPads. Everything off. No exceptions.
-- 9:00-9:30pm is wind-down time — screen-free.
-- Bedtime 9:30pm.
+- Screens off at [TBD — proposed 9:30pm, same as Saturday] — **ALL screens** (gaming, YouTube, TV, reels,, phones,, iPads). No exceptions.
+- Bedtime at [TBD — proposed 10:00pm, same as Saturday]
+
+> Friday is the arrival day. The Friday pass down happens when they arrive (see below). Evening rules are the same as Saturday.
 
 ---
 
-## Weekday Off (no school, Denise working from home, Aaron at work)
-
-**10:00am:**
-- Screens off. Get dressed, eat breakfast. (Denise checks — this is the one transition during the day.)
-
-**Between 10am and 5pm:**
-- Screens available. Your time is yours to manage.
-
-**By 5:00pm (when Aaron gets home), the floor must be met:**
-- Dressed
-- Breakfast and lunch eaten
-- Your meal dishes cleaned up (rinsed, in dishwasher)
-- Room picked up (not wrecked)
-- Common areas picked up (no stuff left all over the house)
-- Garbage and recycling bins taken out to garage (alternates daily)
-- Any homework done (homework-first rule still applies)
-
-**Evening:**
-- Dishes after dinner (both boys, together)
-- Screens off at 9:00pm — ALL screens, no exceptions.
-- Bedtime 9:30pm.
-
----
-
-## Saturday
+## 02 — Saturday (full day — boys with Aaron and Denise)
 
 **10:00am:**
 - Screens off. Get dressed, eat, ready for the day.
 
-**Weekly chores (before screens resume):**
-- Laundry: wash, dry, and start putting away your own clothes
-- Vacuum: downstairs and upstairs
-- Clean bathroom (they already do this — rotation TBD with Denise)
-
-**Daily tasks:**
-- Garbage and recycling bins taken out to garage by 5:00pm (alternates daily)
-- Dishes after dinner (both boys, together)
-
-**Impromptu responsibilities (every day):**
-- When asked to help with something unscheduled (holiday decorations, Costco runs, etc.), help without pushback. Part of the floor.
+**Before screens resume:**
+- Weekly chores:
+  - Laundry: wash, dry, and start putting away your own clothes
+  - Vacuum: downstairs and upstairs
+  - Clean bathroom (they already do this — rotation TBD with Denise)
+- Garbage and recycling bins taken out to garage (alternates daily)
 
 **After chores done:**
 - Screens available. Rest of the day is yours.
 
 **Evening:**
-- Screens off at [TBD — proposed 9:30pm, +30 min from school night] — ALL screens, no exceptions.
+- Dishes after dinner (both boys, together)
+- No screens during dinner
+- Screens off at [TBD — proposed 9:30pm, +30 min from school night] — **ALL screens**, no exceptions.
 - Bedtime at [TBD — proposed 10:00pm, +30 min from school night]
 
----
-
-## Friday (when boys are with Aaron and Denise)
-
-**Daily tasks:**
-- Garbage and recycling bins taken out to garage by 5:00pm (alternates daily)
-- Dishes after dinner (both boys, together)
-
-**Evening:**
-- Screens off at [TBD — proposed 9:30pm, same as Saturday] — ALL screens, no exceptions.
-- Bedtime at [TBD — proposed 10:00pm, same as Saturday]
+**Impromptu responsibilities (every day):**
+- When asked to help with something unscheduled (holiday decorations, Costco runs, etc.), help without pushback. Part of the floor.
 
 ---
 
-## Sunday
+## 03 — Sunday (full day — school night evening)
 
 **10:00am:**
 - Screens off. Get dressed, eat, ready for the day.
 
-**Spot check (before screens resume):**
-- Room tidy
-- Bed made
-- Stuffies picked up
-- Clean laundry put away (best effort — if laundry isn't fully folded, that's okay, but what's done needs to be put away)
-
-**Daily tasks:**
-- Garbage and recycling bins taken out to garage by 5:00pm (alternates daily)
-- Dishes after dinner (both boys, together)
+**Before screens resume:**
+- Spot check:
+  - Room tidy
+  - Bed made
+  - Stuffies picked up
+  - Clean laundry put away (best effort — if not fully folded, that's okay, but what's done needs to be put away)
+- Garbage and recycling bins taken out to garage (alternates daily)
 
 **After spot check:**
 - Screens available. Day is yours.
 
 **Evening (school night — back to normal):**
-- Screens off at 9:00pm — ALL screens, no exceptions.
+- Dishes after dinner (both boys, together)
+- No screens during dinner
+- Screens off at 9:00pm — **ALL screens**, no exceptions.
+- 9:00-9:30pm is wind-down time — screen-free.
 - Bedtime 9:30pm.
+
+> Sunday is lighter than Saturday. No weekly chores — just a spot check to make sure rooms are ready for the school week. Sunday evening reverts to school-night schedule. This is the reset point for Monday morning.
+
+---
+
+## 04 — School Day (Monday-Thursday, school in session)
+
+**Before screens:**
+- Homework first. If you have homework, it gets done before screens.
+- Garbage and recycling bins taken out to garage — done before screens (alternates daily: Sean / Liam)
+- No recreational screens before school.
+
+**Evening:**
+- Dishes after dinner (both boys, together)
+- No screens during dinner
+- Screens off at 9:00pm — **ALL screens** (gaming, YouTube, TV, reels,, phones,, iPads). No exceptions.
+- 9:00-9:30pm is wind-down time — screen-free.
+- Bedtime 9:30pm.
+
+---
+
+## 05 — Weekday Off (no school — Denise working from home, Aaron at work)
+
+**10:00am:**
+- Screens off. Get dressed, eat breakfast. (Denise checks — this is the one transition during the day.)
+
+**Before screens resume:**
+- Floor must be met:
+  - Dressed
+  - Breakfast and lunch eaten
+  - Your meal dishes cleaned up (rinsed, in dishwasher)
+  - Room picked up (not wrecked)
+  - Common areas picked up (no stuff left all over the house)
+  - Garbage and recycling bins taken out to garage (alternates daily)
+  - Any homework done (homework-first rule still applies)
+
+**After floor is met:**
+- Screens available. Your time is yours to manage until evening.
+
+**Evening:**
+- Dishes after dinner (both boys, together)
+- No screens during dinner
+- Screens off at 9:00pm — **ALL screens**, no exceptions.
+- Bedtime 9:30pm.
+
+> On weekday off days, the boys manage their own time between 10am and evening. Screens are available — that's the autonomy piece. The floor is what needs to be true before screens resume after the 10am get-dressed transition. How they get there is their call. Sometimes grandparents may take them for the day.
 
 ---
 
@@ -125,8 +133,9 @@
 - No recreational screens before school
 - Internet safety protections
 - YouTube blocked on iPads, allowed on TV with autoplay off
-- Screens off means ALL screens — no co-watching exceptions
+- Screens off means **ALL screens** — no co-watching exceptions
 - No screens during dinner
+- Garbage and recycling: done before screens (all days, no specific time deadline on non-school days)
 - Impromptu asks: when we ask for help with something unscheduled, you help. No pushback. Every day.
 - Family meals (with flexibility — see open items)
 - Bedtime and screen-off rules as listed above

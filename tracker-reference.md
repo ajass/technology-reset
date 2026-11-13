@@ -43,10 +43,10 @@ Four categories, tracked daily for each boy (Sean and Liam scored separately).
 A grid where each day is marked Green/Yellow/Red on the four categories. Takes 30 seconds per kid at the end of each day. Dropdowns with color coding — the cell turns green/yellow/red automatically.
 
 **Structure:**
-- Sean baseline: 21 days (Nov 13 - Dec 3, tracked during their weeks only)
-- Liam baseline: 21 days (same period)
-- Sean trial: 30 days (Nov 27 - Dec 27)
-- Liam trial: 30 days (same period)
+- Sean baseline: 21 days
+- Liam baseline: 21 days
+- Sean trial: 30 days
+- Liam trial: 30 days
 
 ### Weekly Summary
 
@@ -64,7 +64,7 @@ Compares the baseline period to the trial period side by side for each boy. Show
 |-------|--------|-----------|
 | Baseline | Nov 13-20 | Daily tracking (boys with us) |
 | Dad's week | Nov 20-27 | /no tracking |
-| Trial | Nov 27 - Dec~27 | Daily tracking (boys with us, ~16 tracked days across 2.5 custody cycles) |
+| Trial | Nov 27 - Dec ~27 | Daily tracking (boys with us, ~16 tracked days across 2.5 custody cycles) |
 | Review | ~Dec 27 | Compare baseline vs trial data |
 
 > **Custody note:** The 30-day trial spans ~4.5 calendar weeks, but boys are only with us ~16 days (custody alternation). Tracker data has gaps during dad's weeks. Consistent patterns across tracked weeks are meaningful even with gaps.

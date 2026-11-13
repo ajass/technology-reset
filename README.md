@@ -17,11 +17,12 @@ Sean and Liam are 11-12 years old. We've been managing their screen time closely
 ### Key Decisions
 
 - **Homework first, not time-based.** Responsibilities before screens, no clock to fight over.
+- **Garbage and recycling: done before screens.** Not a time deadline. On all days, garbage goes out before screens come on.
 - **Screens off at 9pm = ALL screens** (including reels). No co-watching exceptions.
 - **No screens during dinner.** The one hard boundary during free time.
 - **Game-by-game evaluation.** Not platform bans — we approve individual titles.
 - **Weekly chores on Saturday.** Sunday is a spot check.
-- **Daily garbage/recycling by 5pm.** Alternating between Sean and Liam.
+- **Friday and Saturday are their own days.** School days are Monday-Thursday.
 - **Impromptu responsibilities every day.** Help when asked, no pushback.
 
 ### Timeline
@@ -35,10 +36,19 @@ Sean and Liam are 11-12 years old. We've been managing their screen time closely
 
 > **Note:** The 30-day trial spans ~4.5 calendar weeks, but boys are only with us ~16 days (custody alternation). Tracker data has gaps during dad's weeks. Consistent patterns across tracked weeks are meaningful even with gaps.
 
-### Documents
+### Day Types (in timeline order)
 
-- [Floor Expectations](floor-expectations.md) — Full rules and schedule
-- [Day Types](day-types/) — Daily workflow diagrams for each day type
+We get the boys on Friday, so the schedule reads in that order:
+
+1. [01 — Friday](day-types/01-friday.md) — Arrival day, evening with us
+2. [02 — Saturday](day-types/02-saturday.md) — Full day with us
+3. [03 — Sunday](day-types/03-sunday.md) — Full day, school night evening
+4. [04 — School Day](day-types/04-school-day.md) — Monday-Thursday, school in session
+5. [05 — Weekday Off](day-types/05-weekday-off.md) — Weekday, no school, Denise working from home
+
+### Other Documents
+
+- [Floor Expectations](floor-expectations.md) — Full rules, universal rules, consequences, gaming, open items
 - [Kid Presentation](kid-presentation.md) — Draft script for talking to the boys
 - [Non-Compliance Examples](non-compliance-examples.md) — What earns a Yellow or Red
 - [Tracker Reference](tracker-reference.md) — Google Sheet categories and legend

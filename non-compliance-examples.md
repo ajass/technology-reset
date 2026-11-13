@@ -26,9 +26,9 @@ The scores are about **behavior, not mood.** If they comply but grumble, that's 
 
 | Score | What it means | Example |
 |-------|---------------|---------|
-| /green Green | All chores done + helped when asked, no pushback | It's Liam's day for garbage. He takes the bins out by 5pm without being asked. Later, Aaron asks him to help bring in groceries from the car. He does it without complaining. |
-| /yellow Yellow | Done, but needed reminder or pushed back | It's Sean's day for garbage. Aaron has to remind him at 4:45. Sean does it, but sighs and says "do I have to?" Later, when asked to help with Costco boxes, he helps but rolls his eyes first. |
-| /red Red | Refused or not done | It's Liam's day for garbage. He doesn't take the bins out. When Aaron gets home at5pm, the bins are still in the kitchen. Liam refuses to go do it, says "I'll do it tomorrow." |
+| /green Green | All chores done + helped when asked, no pushback | It's Liam's day for garbage. He takes the bins out before screens without being asked. Later, Aaron asks him to help bring in groceries from the car. He does it without complaining. |
+| /yellow Yellow | Done, but needed reminder or pushed back | It's Sean's day for garbage. Aaron has to remind him. Sean does it, but sighs and says "do I have to?" Later, when asked to help with Costco boxes, he helps but rolls his eyes first. |
+| /red Red | Refused or not done | It's Liam's day for garbage. He doesn't take the bins out. When Aaron gets home, the bins are still in the kitchen. Liam refuses to go do it, says "I'll do it tomorrow." |
 
 ### Impromptu Examples
 
