@@ -107,6 +107,7 @@ We get the boys on Friday, so the schedule reads in that order. Each day-type do
 
 - [Floor Expectations](floor-expectations.md) — Full rules, two-phase overview, universal rules, consequences, gaming, open items
 - [Kid Presentation](kid-presentation.md) — Draft script for talking to the boys
+- [Fridge Sheet](fridge-sheet.html) — Printable reference for the boys (open in browser, print to PDF or paper)
 - [Non-Compliance Examples](non-compliance-examples.md) — What earns a Yellow or Red
 - [Tracker Reference](tracker-reference.md) — Google Sheet categories and legend
 - [Changelog](CHANGELOG.md) — Change history

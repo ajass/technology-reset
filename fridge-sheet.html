@@ -1,0 +1,320 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Floor — Technology Reset</title>
+<style>
+  @page {
+    size: letter portrait;
+    margin: 0.5in;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    color: #1a1a1a;
+    background: #fff;
+    padding: 0;
+  }
+  .sheet {
+    max-width: 7.5in;
+    margin: 0 auto;
+    padding: 0.3in 0;
+  }
+
+  /* Header */
+  .header {
+    text-align: center;
+    margin-bottom: 16px;
+    padding-bottom: 12px;
+    border-bottom: 3px solid #2c3e50;
+  }
+  .header h1 {
+    font-size: 28px;
+    color: #2c3e50;
+    letter-spacing: 2px;
+  }
+  .header .sub {
+    font-size: 13px;
+    color: #7f8c8d;
+    margin-top: 4px;
+  }
+
+  /* Layout */
+  .columns {
+    display: flex;
+    gap: 20px;
+    align-items: flex-start;
+  }
+  .col-left { flex: 0 0 38%; }
+  .col-right { flex: 1; }
+
+  /* Section styling */
+  .section {
+    margin-bottom: 14px;
+    padding: 12px 14px;
+    border-radius: 8px;
+  }
+  .section.every-day { background: #e8f5e9; border: 2px solid #4caf50; }
+  .section.how-it-works { background: #e3f2fd; border: 2px solid #2196f3; }
+  .section.screens-off { background: #fff3e0; border: 2px solid #ff9800; }
+  .section.phase2 { background: #f3e5f5; border: 2px solid #9c27b0; }
+
+  .section h2 {
+    font-size: 15px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 8px;
+    color: #2c3e50;
+  }
+
+  .section ul {
+    list-style: none;
+    padding: 0;
+  }
+  .section li {
+    font-size: 13px;
+    line-height: 1.5;
+    padding: 3px 0;
+    padding-left: 22px;
+    position: relative;
+  }
+  .section li::before {
+    content: "☐";
+    position: absolute;
+    left: 0;
+    font-size: 14px;
+    color: #555;
+  }
+
+  .callout {
+    font-size: 14px;
+    font-weight: bold;
+    padding: 8px 12px;
+    border-radius: 6px;
+    margin: 8px 0;
+    text-align: center;
+  }
+  .callout.all-screens {
+    background: #ffe0b2;
+    color: #e65100;
+  }
+
+  /* Day cards */
+  .day-card {
+    margin-bottom: 10px;
+    padding: 10px 14px;
+    border-radius: 8px;
+    border-left: 5px solid;
+  }
+  .day-card.sat { border-color: #4caf50; background: #f1f8f1; }
+  .day-card.sun { border-color: #29b6f6; background: #f0f9fc; }
+  .day-card.school { border-color: #ff9800; background: #fff8f0; }
+  .day-card.fri { border-color: #9c27b0; background: #faf5fb; }
+  .day-card.off { border-color: #607d8b; background: #f5f7f8; }
+
+  .day-card h3 {
+    font-size: 14px;
+    margin-bottom: 4px;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+  }
+  .day-card h3 .times {
+    font-size: 12px;
+    font-weight: normal;
+    color: #555;
+  }
+  .day-card .label {
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    color: #888;
+    margin-bottom: 3px;
+    margin-top: 4px;
+  }
+  .day-card ul {
+    list-style: none;
+    padding: 0;
+  }
+  .day-card li {
+    font-size: 12px;
+    line-height: 1.45;
+    padding: 2px 0;
+    padding-left: 18px;
+    position: relative;
+  }
+  .day-card li::before {
+    content: "☐";
+    position: absolute;
+    left: 0;
+    font-size: 12px;
+    color: #888;
+  }
+  .day-card .after {
+    font-size: 12px;
+    font-weight: bold;
+    color: #2e7d32;
+    margin-top: 5px;
+    padding-top: 4px;
+    border-top: 1px dashed #ccc;
+  }
+  .day-card .after span { color: #555; font-weight: normal; }
+
+  /* Footer */
+  .footer {
+    text-align: center;
+    font-size: 11px;
+    color: #aaa;
+    margin-top: 12px;
+    padding-top: 8px;
+    border-top: 1px solid #eee;
+  }
+
+  @media print {
+    body { padding: 0; }
+    .sheet { max-width: 100%; padding: 0; }
+    .no-print { display: none; }
+  }
+  .no-print {
+    text-align: center;
+    padding: 10px;
+    font-size: 13px;
+    color: #666;
+  }
+  .no-print button {
+    padding: 8px 20px;
+    font-size: 14px;
+    background: #2c3e50;
+    color: #fff;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+  }
+</style>
+</head>
+<body>
+
+<div class="no-print">
+  <button onclick="window.print()">🖨️ Print this page</button>
+</div>
+
+<div class="sheet">
+
+  <div class="header">
+    <h1>📋 THE FLOOR</h1>
+    <div class="sub">What needs to happen before screens — Sean &amp; Liam — November 2026</div>
+  </div>
+
+  <div class="callout all-screens">
+    ⚠️ SCREENS OFF = ALL SCREENS — gaming, YouTube, TV, phones, iPads. Everything. No exceptions.
+  </div>
+
+  <div class="columns">
+
+    <!-- LEFT COLUMN: Universal rules + how it works -->
+    <div class="col-left">
+
+      <div class="section every-day">
+        <h2>✔ Every Single Day</h2>
+        <ul>
+          <li>Homework first — if you have any, it gets done before screens</li>
+          <li>Dishes after dinner — both boys, together</li>
+          <li>Garbage &amp; recycling to garage — Sean one day, Liam the next</li>
+          <li>When we ask you to help with something not on this list — help. No pushback.</li>
+        </ul>
+      </div>
+
+      <div class="section how-it-works">
+        <h2>📱 How It Works Now</h2>
+        <ul>
+          <li>We hold your iPads until your stuff is done and checked</li>
+          <li>When it's checked and done → you get your iPad</li>
+          <li>When it's screens-off time → we take it back</li>
+          <li>If Denise is working when you get home — don't interrupt her. Do your homework while you wait. She'll check it when she's free.</li>
+        </ul>
+      </div>
+
+      <div class="section phase2">
+        <h2>🚀 Starting December 11</h2>
+        <ul>
+          <li>You get your iPads to manage on your own</li>
+          <li>Your stuff still needs to get done first — but we won't pre-check it. That's on you.</li>
+          <li>If we find you on screens with stuff not done → "Get it done, then screens are back." Not a punishment — just the sequence.</li>
+        </ul>
+      </div>
+
+    </div>
+
+    <!-- RIGHT COLUMN: Day-by-day checklists -->
+    <div class="col-right">
+
+      <div class="day-card school">
+        <h3>🏫 Monday – Thursday <span class="times">Screens off 9:00pm · Bed 9:30pm</span></h3>
+        <div class="label">Before screens:</div>
+        <ul>
+          <li>Homework done (if you have any)</li>
+        </ul>
+        <div class="after">After homework checked → iPad <span>(if Denise's in a meeting, do homework while you wait)</span></div>
+      </div>
+
+      <div class="day-card fri">
+        <h3>🎒 Friday <span class="times">Screens off ~9:30pm · Bed ~10:00pm</span></h3>
+        <div class="label">Before screens:</div>
+        <ul>
+          <li>Homework done (if you have any)</li>
+        </ul>
+        <div class="after">After homework checked → iPad</div>
+      </div>
+
+      <div class="day-card sat">
+        <h3>🧹 Saturday <span class="times">Screens off ~9:30pm · Bed ~10:00pm</span></h3>
+        <div class="label">Before screens (weekly chores):</div>
+        <ul>
+          <li>Get dressed, eat, ready for the day (10am)</li>
+          <li>Laundry — wash, dry, put away your clothes</li>
+          <li>Vacuum — downstairs and upstairs</li>
+          <li>Clean bathroom</li>
+        </ul>
+        <div class="after">After all chores checked → iPad</div>
+      </div>
+
+      <div class="day-card sun">
+        <h3>✅ Sunday <span class="times">Screens off 9:00pm · Bed 9:30pm (school night)</span></h3>
+        <div class="label">Before screens (spot check):</div>
+        <ul>
+          <li>Get dressed, eat, ready for the day (10am)</li>
+          <li>Room tidy</li>
+          <li>Bed made</li>
+          <li>Stuffies picked up</li>
+          <li>Clean laundry put away (best effort)</li>
+        </ul>
+        <div class="after">After spot check checked → iPad</div>
+      </div>
+
+      <div class="day-card off">
+        <h3>🏠 Weekday Off <span class="times">Screens off 9:00pm · Bed 9:30pm</span></h3>
+        <div class="label">Before screens (floor checklist):</div>
+        <ul>
+          <li>Dressed</li>
+          <li>Breakfast &amp; lunch eaten</li>
+          <li>Meal dishes cleaned up (rinsed, in dishwasher)</li>
+          <li>Room picked up</li>
+          <li>Common areas picked up</li>
+          <li>Homework done (if you have any)</li>
+        </ul>
+        <div class="after">After floor checked → iPad</div>
+      </div>
+
+    </div>
+
+  </div>
+
+  <div class="footer">
+    Sean &amp; Liam — The floor happens no matter what. It's not something you do to earn screen time. It's just what being part of this family means.
+  </div>
+
+</div>
+
+</body>
+</html>

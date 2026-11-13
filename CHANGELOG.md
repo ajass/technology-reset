@@ -4,6 +4,10 @@ All notable changes to the technology reset plan, tracked by date.
 
 ## 2026-11-13 (Session 3)
 
+### Added — Fridge Sheet (Printable)
+
+Created `fridge-sheet.html` — a print-optimized reference sheet for the boys, designed to be taped next to the fridge. Kid-friendly language, two-column layout, checkboxes, color-coded sections. Covers: every-day rules, how iPad hand-off works now (Phase 1), December 11 preview, and day-by-day before-screens checklists for all 5 day types. Open in browser and print.
+
 ### Changed — Phase 1 Floor Check Happens When Parent Is Available
 
 Updated school day and weekday off Phase 1 workflows to reflect reality: Denise works from home and may be in meetings when boys arrive or when floor needs checking. The iPad hand-off happens when the parent is free, not on demand. Boys wait — the wait is intentional baseline data on impulse control.
