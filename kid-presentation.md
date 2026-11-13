@@ -14,7 +14,7 @@ So here's what's going to change — and it's going to happen in two steps.
 
 Before we change anything about screen time, we're going to set up a clear schedule for what needs to happen every day and every week. Homework, chores, family meals, being part of the family. This is the floor. It happens no matter what. It's not something you do to earn screen time. It's just what being part of this family means.
 
-For these two weeks, we're going to run it the way we usually do — we'll check your homework, we'll check your chores, we'll make sure things get done before screens come on. Same as now, but with clearer rules so everyone knows what's expected. During these two weeks, we're going to hold onto your iPads until your stuff is done — when homework and chores are checked, you get the iPad. When it's screens-off time, we take it back. One thing: if Denise is working and in a meeting when you get home from school, don't interrupt her. Do your homework while you wait. When she's free, she'll check it and you get your iPad. The wait isn't a punishment — it's just the sequence. We're also going to track how it goes in a spreadsheet — four things: homework, chores, bedtime, and whether you stopped when we asked.
+For these two weeks, we're going to run it the way we usually do — we'll check your homework, we'll check your chores, we'll make sure things get done before screens come on. Same as now, but with clearer rules so everyone knows what's expected. During these two weeks, we're going to hold onto your iPads until your stuff is done — when homework and chores are checked, you get the iPad. When it's screens-off time, we take it back. On weekend mornings (Saturday and Sunday), you get screens from 8am to 10am as free time. At 10am sharp, we collect the iPads — that's when you get moving on your stuff. You can do your chores earlier than 10am if you want, but the expectation is you get moving at 10am. One thing: if Denise is working and in a meeting when you get home from school, don't interrupt her. Do your homework while you wait. When she's free, she'll check it and you get your iPad. The wait isn't a punishment — it's just the sequence. We're also going to track how it goes in a spreadsheet — four things: homework, chores, bedtime, and whether you stopped when we asked.
 
 These two weeks are about getting used to the floor and seeing where you're at.
 
@@ -43,7 +43,9 @@ These aren't changing. They're staying up on the fridge for everyone to see.
 
 ## The Weekly Chores
 
-On Saturdays, after you get ready for the day, you do your weekly chores before screens come back on:
+On weekend mornings (Saturday and Sunday), you get free time on screens from 8am to 10am. At 10am sharp, screens off — get dressed, eat, ready for the day. You can do your chores earlier than 10am if you want, but the expectation is you get moving at 10am.
+
+On Saturdays, after 10am, you do your weekly chores before screens come back on:
 
 - Laundry — wash, dry, and start putting away your own clothes
 - Vacuum — downstairs and upstairs

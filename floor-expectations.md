@@ -83,8 +83,8 @@ The floor is established. Boys self-manage their free time. Parents step back fr
 
 ### Phase 1 — Baseline
 
-- iPads held by parent from wake-up — no morning screen time
-- 10am: get dressed, eat, ready for the day (no screens to turn off — iPads already with parent)
+- 8am-10am: morning free time — screens available (parent gives iPads at 8am)
+- 10am: parent collects iPads — get dressed, eat, ready for the day. They can do chores earlier if they want, but the expectation is they get moving at 10am sharp.
 - Parent checks each weekly chore: "Show me your laundry. Did you vacuum? Is the bathroom done?"
 - Parent hands over iPads after all weekly chores verified
 - Parent collects iPads at screens-off time, enforces bedtime
@@ -123,8 +123,8 @@ The floor is established. Boys self-manage their free time. Parents step back fr
 
 ### Phase 1 — Baseline
 
-- iPads held by parent from wake-up — no morning screen time
-- 10am: get dressed, eat, ready for the day (no screens to turn off — iPads already with parent)
+- 8am-10am: morning free time — screens available (parent gives iPads at 8am)
+- 10am: parent collects iPads — get dressed, eat, ready for the day. They can do spot check earlier if they want, but the expectation is they get moving at 10am sharp.
 - Parent checks each spot check item: "Is your room tidy? Bed made? Stuffies picked up? Laundry put away?"
 - Parent hands over iPads after spot check verified
 - Parent collects iPads at 9pm screens-off, enforces 9:30pm bedtime

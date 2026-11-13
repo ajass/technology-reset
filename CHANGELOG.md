@@ -4,6 +4,12 @@ All notable changes to the technology reset plan, tracked by date.
 
 ## 2026-11-13 (Session 3)
 
+### Changed — Weekend Morning Screen Time (8am-10am)
+
+Saturday and Sunday: boys get screens 8am-10am as free time. At 10am sharp, parent collects iPads (Phase 1) or boys self-manage the transition (Phase 2). Floor items done before screens come back. They can do chores earlier than 10am if they want, but the expectation is they get moving at 10am.
+
+Updated across all documents: Saturday and Sunday Phase 1 and Phase 2 flowcharts, floor-expectations Phase 1 sections, fridge sheet (day cards now show "Free time 8am-10am"), kid presentation script, README Phase 1 description.
+
 ### Added — Fridge Sheet (Printable)
 
 Created `fridge-sheet.html` — a print-optimized reference sheet for the boys, designed to be taped next to the fridge. Kid-friendly language, two-column layout, checkboxes, color-coded sections. Covers: every-day rules, how iPad hand-off works now (Phase 1), December 11 preview, and day-by-day before-screens checklists for all 5 day types. Open in browser and print.

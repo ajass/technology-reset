@@ -22,7 +22,7 @@ This is the core of the plan. The floor (homework, chores, family participation)
 - Parent checks homework before screens: "Did you finish? Show me."
 - Parent checks chores before screens: "Is your laundry done? Did you vacuum?"
 - Parent enforces all transitions (10am, 9pm screens off, bedtime)
-- **iPads physically held by parent until floor is verified.** Parent hands over the iPad after homework/chores/spot check is done and checked. Parent collects the iPad at screens-off time. No software parental controls needed — the devices are simply not available until the floor is met.
+- **iPads physically held by parent until floor is verified.** On weekend mornings (Saturday and Sunday), screens available 8am-10am as free time — at 10am parent collects iPads. On school days, iPads with parent from arrival. Parent hands over the iPad after the floor is checked. Parent collects the iPad at screens-off time. No software parental controls needed — the devices are simply not available until the floor is met.
 - Tracker data collected daily — Green/Yellow/Red on four categories
 
 **Purpose:** Teach the floor, collect baseline data, and assess readiness. Are they close to meeting the floor on their own? Can they handle it without much steering? Two weeks of baseline data answers that question before autonomy is granted.
@@ -74,7 +74,7 @@ The floor itself doesn't change. These are non-negotiable in Phase 1 and Phase 2
 - **Weekly chores on Saturday.** Sunday is a spot check.
 - **Friday and Saturday are their own days.** School days are Monday-Thursday.
 - **Impromptu responsibilities every day.** Help when asked, no pushback.
-- **Physical iPad gating in Phase 1.** iPads held by parent until floor is verified. No morning screen time until the floor is met. Denise may prefer parental controls software instead — open for discussion.
+- **Physical iPad gating in Phase 1.** iPads held by parent until floor is verified. Weekend mornings: screens 8am-10am, then parent collects at 10am. Denise may prefer parental controls software instead — open for discussion.
 
 ---
 

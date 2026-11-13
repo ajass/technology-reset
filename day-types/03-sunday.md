@@ -6,7 +6,7 @@
 
 ## Two Phases
 
-**Phase 1 — Baseline (Nov 13-20 and Nov 27-Dec 4):** iPads physically held by parent from wake-up. No morning screen time. Parent checks spot check before handing over iPads. Parent enforces school-night evening.
+**Phase 1 — Baseline (Nov 13-20 and Nov 27-Dec 4):** Screens available 8am-10am (free time). At 10am parent collects iPads — spot check done before iPads come back. Parent enforces school-night evening.
 
 **Phase 2 — Trial (Dec 11+):** Boys self-manage 10am transition and spot check. Parent steers on failure. Evening transitions self-managed and scored.
 
@@ -16,8 +16,8 @@
 
 ```mermaid
 flowchart TD
-    A["🛏️ Wake up"] --> IP["📱 iPads with parent<br/>no morning screens"]
-    IP --> C["🚫 10:00am<br/>get dressed, eat, ready for day"]
+    A["🛏️ Wake up"] --> AM["📱 Screens available<br/>8:00am — free time"]
+    AM --> C["🚫 10:00am<br/>parent collects iPads<br/>get dressed, eat, ready for day"]
     C --> D["✅ Parent checks spot check"]
     D --> D1["🛏️ Room tidy"]
     D --> D2["🛏️ Bed made"]
@@ -39,13 +39,14 @@ flowchart TD
     M --> N["🌙 Wind down<br/>9:00-9:30pm screen-free"]
     N --> O["🛏️ Bedtime<br/>9:30pm — school night"]
 
+    style AM fill:#7bc950
     style C fill:#e74c3c
     style DG fill:#7bc950
     style M fill:#e74c3c
     style O fill:#95a5a6
 ```
 
-**Phase 1 — what's different:** iPads held by parent from wake-up — no morning screen time. 10am transition is just getting ready. Parent hands over iPads after spot check verified, collects them at 9pm.
+**Phase 1 — what's different:** Screens available 8am-10am (free time). At 10am parent collects iPads — get dressed, eat, ready for the day. They can do spot check earlier than 10am if they want, but the expectation is they get moving at 10am sharp. Parent hands over iPads after spot check verified, collects them at 9pm.
 
 ---
 
@@ -53,7 +54,7 @@ flowchart TD
 
 ```mermaid
 flowchart TD
-    A["🛏️ Wake up"] --> B["📱 Screens available"]
+    A["🛏️ Wake up"] --> B["📱 Screens available<br/>8:00am — free time"]
     B --> C["🚫 Screens off 10:00am<br/>self-managed transition"]
     C --> D["✅ Spot check<br/>self-managed"]
     D --> D1["🛏️ Room tidy"]

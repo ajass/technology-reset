@@ -6,7 +6,7 @@
 
 ## Two Phases
 
-**Phase 1 — Baseline (Nov 13-20 and Nov 27-Dec 4):** iPads physically held by parent from wake-up. No morning screen time. Parent checks chores before handing over iPads. Parent enforces evening transitions.
+**Phase 1 — Baseline (Nov 13-20 and Nov 27-Dec 4):** Screens available 8am-10am (free time). At 10am parent collects iPads — floor items done before iPads come back. Parent enforces evening transitions.
 
 **Phase 2 — Trial (Dec 11+):** Boys self-manage 10am transition and weekly chores. Parent steers on failure. Evening transitions self-managed and scored.
 
@@ -16,8 +16,8 @@
 
 ```mermaid
 flowchart TD
-    A["🛏️ Wake up"] --> IP["📱 iPads with parent<br/>no morning screens"]
-    IP --> C["🚫 10:00am<br/>get dressed, eat, ready for day"]
+    A["🛏️ Wake up"] --> AM["📱 Screens available<br/>8:00am — free time"]
+    AM --> C["🚫 10:00am<br/>parent collects iPads<br/>get dressed, eat, ready for day"]
     C --> D["🧺 Parent checks weekly chores"]
     D --> D1["👕 Laundry<br/>wash, dry, put away"]
     D --> D2["🧹 Vacuum<br/>downstairs + upstairs"]
@@ -36,13 +36,14 @@ flowchart TD
     L --> M["📱 Parent collects iPads<br/>TBD ~9:30pm — ALL screens"]
     M --> N["🛏️ Bedtime<br/>TBD ~10:00pm"]
 
+    style AM fill:#7bc950
     style C fill:#e74c3c
     style DG fill:#7bc950
     style M fill:#f39c12
     style N fill:#95a5a6
 ```
 
-**Phase 1 — what's different:** iPads held by parent from wake-up — no morning screen time. 10am transition is just getting ready (no screens to turn off). Parent hands over iPads after weekly chores verified, collects them at screens-off time.
+**Phase 1 — what's different:** Screens available 8am-10am (free time). At 10am parent collects iPads — get dressed, eat, ready for the day. They can do chores earlier than 10am if they want, but the expectation is they get moving at 10am sharp. Parent hands over iPads after weekly chores verified, collects them at screens-off time.
 
 ---
 
@@ -50,7 +51,7 @@ flowchart TD
 
 ```mermaid
 flowchart TD
-    A["🛏️ Wake up"] --> B["📱 Screens available"]
+    A["🛏️ Wake up"] --> B["📱 Screens available<br/>8:00am — free time"]
     B --> C["🚫 Screens off 10:00am<br/>self-managed transition"]
     C --> D["🧺 Weekly chores<br/>self-managed"]
     D --> D1["👕 Laundry<br/>wash, dry, put away"]
@@ -99,7 +100,7 @@ flowchart TD
 
 ## Key Transitions
 
-1. **10:00am → chores.** Screens stop, weekly chores start. Phase 1: parent enforces this. Phase 2: self-managed — this is where autonomy is tested.
-2. **~9:30pm screens off.** All screens off. Phase 1: parent enforces. Phase 2: self-managed and scored — do they stop when asked?
+1. **8am-10am free time → 10am chores.** Screens available 8am-10am. At 10am, screens off and floor items start. Phase 1: parent collects iPads at 10am, checks chores, then hands iPads back. Phase 2: self-managed — this is where autonomy is tested.
+2. **~9:30pm screens off.** All screens off. Phase 1: parent collects iPads. Phase 2: self-managed and scored — do they stop when asked?
 
 > Garbage is done as needed after dinner — not a before-screens gate.
