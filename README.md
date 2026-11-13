@@ -12,7 +12,7 @@ Sean and Liam are 11-12 years old. We've been managing their screen time closely
 
 2. **30-day trial with data.** We track four categories daily (Homework, Chores, Bedtime, Screen Transition) using a shared Google Sheet. Baseline data first, then trial data. At 30 days, the data does the talking — not gut feeling.
 
-3. **Structural rollback, not punishment.** If the tracker shows 3+ Reds in a week, we roll back to parent-checked structure for 2 weeks, then re-test autonomy. Always a path back to freedom.
+3. **Steer, log, and gate autonomy on data.** When they're on screens and the floor isn't met, we redirect them to the unfinished floor activity (homework, chores, etc.) and log the behavior in the tracker sheet (Green/Yellow/Red). If the data shows too many Yellows or Reds in a week, autonomy isn't granted — we roll back to parent-checked structure for 2 weeks, then re-test. Always a path back to freedom.
 
 ### Key Decisions
 
