@@ -9,8 +9,8 @@ flowchart TD
     A["🚪 Boys arrive<br/>Friday pass down"] --> B["🍽️ Dinner"]
     B --> C["🚫 No screens<br/>during dinner"]
     C --> D["🧹 Dishes<br/>both boys, together"]
-    D --> E["🗑️ Garbage/recycling<br/>to garage — done before screens"]
-    E --> F["🎮 Free time<br/>screens available"]
+    D --> E["🗑️ Garbage/recycling<br/>to garage — as needed"]
+    E --> F["🎮 Free time<br/>screens available (8am+)"]
     F --> G["🔇 Screens off<br/>TBD ~9:30pm — ALL screens"]
     G --> H["🌙 Wind down<br/>screen-free until bedtime"]
     H --> I["🛏️ Bedtime<br/>TBD ~10:00pm"]
@@ -25,8 +25,9 @@ flowchart TD
 
 | Rule | Detail |
 |------|--------|
+| Screens available | 8:00am (current rule, not changing) |
 | Friday pass down | Level-set conversation when they arrive. How was your week? What's coming up? |
-| Garbage/recycling | Bins to garage — done before screens (alternates daily) |
+| Garbage/recycling | Bins to garage — done as needed (alternates daily). Part of the floor, not a screen gate. |
 | Dishes | After dinner, both boys, together |
 | Dinner | No screens during dinner |
 | Screens off | TBD ~9:30pm — ALL screens, no exceptions |

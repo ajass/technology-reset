@@ -17,7 +17,8 @@ Sean and Liam are 11-12 years old. We've been managing their screen time closely
 ### Key Decisions
 
 - **Homework first, not time-based.** Responsibilities before screens, no clock to fight over.
-- **Garbage and recycling: done before screens.** Not a time deadline. On all days, garbage goes out before screens come on.
+- **Garbage and recycling: part of the floor.** Done after dishes (week) / as needed (other days). Not a screen gate.
+- **Screens available at 8am on all days.** Current rule, not changing.
 - **Screens off at 9pm = ALL screens** (including reels). No co-watching exceptions.
 - **No screens during dinner.** The one hard boundary during free time.
 - **Game-by-game evaluation.** Not platform bans — we approve individual titles.

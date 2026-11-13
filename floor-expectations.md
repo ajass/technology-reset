@@ -3,19 +3,20 @@
 **Aaron & Denise — Technology Reset for Sean & Liam**
 *Last updated: November 13,2026*
 
+> **Screens are available at 8:00am on all days. This is the current rule and is not changing.**
+
 ---
 
 ## 01 — Friday (when boys arrive — evening with Aaron and Denise)
 
-**Daily tasks:**
-- Garbage and recycling bins taken out to garage — done before screens (alternates daily: Sean / Liam — rotation TBD with Denise)
-- Dishes after dinner (both boys, together)
-
 **Evening:**
+- Dishes after dinner (both boys, together)
+- Garbage and recycling bins taken out to garage — done as needed (alternates daily: Sean / Liam — rotation TBD with Denise)
+- No screens during dinner
 - Screens off at [TBD — proposed 9:30pm, same as Saturday] — **ALL screens** (gaming, YouTube, TV, reels,, phones,, iPads). No exceptions.
 - Bedtime at [TBD — proposed 10:00pm, same as Saturday]
 
-> Friday is the arrival day. The Friday pass down happens when they arrive (see below). Evening rules are the same as Saturday.
+> Friday is the arrival day. The Friday pass down happens when they arrive (see below). Evening rules are the same as Saturday. Garbage is part of the floor — it gets done, but not a screen gate.
 
 ---
 
@@ -29,13 +30,13 @@
   - Laundry: wash, dry, and start putting away your own clothes
   - Vacuum: downstairs and upstairs
   - Clean bathroom (they already do this — rotation TBD with Denise)
-- Garbage and recycling bins taken out to garage (alternates daily)
 
 **After chores done:**
 - Screens available. Rest of the day is yours.
 
 **Evening:**
 - Dishes after dinner (both boys, together)
+- Garbage and recycling bins taken out to garage — done as needed (alternates daily)
 - No screens during dinner
 - Screens off at [TBD — proposed 9:30pm, +30 min from school night] — **ALL screens**, no exceptions.
 - Bedtime at [TBD — proposed 10:00pm, +30 min from school night]
@@ -56,19 +57,19 @@
   - Bed made
   - Stuffies picked up
   - Clean laundry put away (best effort — if not fully folded, that's okay, but what's done needs to be put away)
-- Garbage and recycling bins taken out to garage (alternates daily)
 
 **After spot check:**
 - Screens available. Day is yours.
 
 **Evening (school night — back to normal):**
 - Dishes after dinner (both boys, together)
+- Garbage and recycling bins taken out to garage — done as needed (alternates daily)
 - No screens during dinner
 - Screens off at 9:00pm — **ALL screens**, no exceptions.
 - 9:00-9:30pm is wind-down time — screen-free.
 - Bedtime 9:30pm.
 
-> Sunday is lighter than Saturday. No weekly chores — just a spot check to make sure rooms are ready for the school week. Sunday evening reverts to school-night schedule. This is the reset point for Monday morning.
+> Sunday is lighter than Saturday. No weekly chores — just a spot check to make sure rooms are ready for the school week. Garbage is done as needed. Sunday evening reverts to school-night schedule. This is the reset point for Monday morning.
 
 ---
 
@@ -76,15 +77,17 @@
 
 **Before screens:**
 - Homework first. If you have homework, it gets done before screens.
-- Garbage and recycling bins taken out to garage — done before screens (alternates daily: Sean / Liam)
 - No recreational screens before school.
 
 **Evening:**
 - Dishes after dinner (both boys, together)
+- Garbage and recycling bins taken out to garage — done right after dishes (alternates daily: Sean / Liam)
 - No screens during dinner
 - Screens off at 9:00pm — **ALL screens** (gaming, YouTube, TV, reels,, phones,, iPads). No exceptions.
 - 9:00-9:30pm is wind-down time — screen-free.
 - Bedtime 9:30pm.
+
+> Screens are available at 8am, but kids are at school. When they get home at ~4pm, the homework-first gate applies. Garbage is done after dishes — part of the floor, not a screen gate.
 
 ---
 
@@ -100,7 +103,6 @@
   - Your meal dishes cleaned up (rinsed, in dishwasher)
   - Room picked up (not wrecked)
   - Common areas picked up (no stuff left all over the house)
-  - Garbage and recycling bins taken out to garage (alternates daily)
   - Any homework done (homework-first rule still applies)
 
 **After floor is met:**
@@ -108,11 +110,12 @@
 
 **Evening:**
 - Dishes after dinner (both boys, together)
+- Garbage and recycling bins taken out to garage — done as needed (alternates daily)
 - No screens during dinner
 - Screens off at 9:00pm — **ALL screens**, no exceptions.
 - Bedtime 9:30pm.
 
-> On weekday off days, the boys manage their own time between 10am and evening. Screens are available — that's the autonomy piece. The floor is what needs to be true before screens resume after the 10am get-dressed transition. How they get there is their call. Sometimes grandparents may take them for the day.
+> On weekday off days, the boys manage their own time between 10am and evening. Screens are available — that's the autonomy piece. The floor is what needs to be true before screens resume after the 10am get-dressed transition. How they get there is their call. Garbage is done as needed — part of the floor, not a screen gate. Sometimes grandparents may take them for the day.
 
 ---
 
@@ -130,12 +133,13 @@
 
 ## What Stays (non-negotiable, all day types)
 
+- Screens available at 8:00am (current rule, not changing)
 - No recreational screens before school
 - Internet safety protections
 - YouTube blocked on iPads, allowed on TV with autoplay off
 - Screens off means **ALL screens** — no co-watching exceptions
 - No screens during dinner
-- Garbage and recycling: done before screens (all days, no specific time deadline on non-school days)
+- Garbage and recycling: part of the floor — done after dishes (week) / as needed (other days). Not a screen gate.
 - Impromptu asks: when we ask for help with something unscheduled, you help. No pushback. Every day.
 - Family meals (with flexibility — see open items)
 - Bedtime and screen-off rules as listed above
