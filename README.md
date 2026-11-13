@@ -22,7 +22,7 @@ This is the core of the plan. The floor (homework, chores, family participation)
 - Parent checks homework before screens: "Did you finish? Show me."
 - Parent checks chores before screens: "Is your laundry done? Did you vacuum?"
 - Parent enforces all transitions (10am, 9pm screens off, bedtime)
-- **iPads physically held by parent until floor is verified.** On weekend mornings (Saturday and Sunday), screens available 8am-10am as free time — at 10am parent collects iPads. On school days, iPads with parent from arrival. Parent hands over the iPad after the floor is checked. Parent collects the iPad at screens-off time. No software parental controls needed — the devices are simply not available until the floor is met.
+- **iPads held by parent until the floor is verified — no parental controls software needed, the devices simply aren't available until the floor is met.** On weekend mornings (Saturday and Sunday), boys get screens 8am-10am as free time; at 10am the parent collects iPads and floor items begin. On school days, iPads stay with the parent from arrival. Once the floor is checked and done, the iPad is handed over. At screens-off time, the parent collects it back.
 - Tracker data collected daily — Green/Yellow/Red on four categories
 
 **Purpose:** Teach the floor, collect baseline data, and assess readiness. Are they close to meeting the floor on their own? Can they handle it without much steering? Two weeks of baseline data answers that question before autonomy is granted.
