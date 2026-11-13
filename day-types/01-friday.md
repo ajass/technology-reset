@@ -25,8 +25,7 @@ flowchart TD
     CW --> D
     D --> PD["📋 Friday pass down<br/>when I get home from work"]
     PD --> E["🍽️ Dinner"]
-    E --> F["🚫 No screens<br/>during dinner"]
-    F --> G["🧹 Dishes<br/>both boys, together"]
+    E --> G["🧹 Dishes<br/>both boys, together"]
     G --> H["🗑️ Garbage/recycling<br/>to garage — as needed"]
     H --> I["🎮 Free time"]
     I --> J["🔇 Parent enforces screens off<br/>TBD ~9:30pm — ALL screens"]
@@ -51,8 +50,7 @@ flowchart TD
     C --> D["🎮 Free time<br/>screens available"]
     D --> PD["📋 Friday pass down<br/>when I get home from work"]
     PD --> E["🍽️ Dinner"]
-    E --> F["🚫 No screens<br/>during dinner"]
-    F --> G["🧹 Dishes<br/>both boys, together"]
+    E --> G["🧹 Dishes<br/>both boys, together"]
     G --> H["🗑️ Garbage/recycling<br/>to garage — as needed"]
     H --> I["🎮 Free time"]
     I --> J["🔇 Screens off<br/>TBD ~9:30pm — ALL screens<br/>self-managed, scored"]
@@ -75,7 +73,6 @@ flowchart TD
 | Friday pass down | Level-set conversation when Aaron gets home from work. How was your week? What's coming up? |
 | Garbage/recycling | Bins to garage — done as needed (alternates daily). Part of the floor, not a screen gate. |
 | Dishes | After dinner, both boys, together |
-| Dinner | No screens during dinner |
 | Screens off | TBD ~9:30pm — ALL screens, no exceptions |
 | Bedtime | TBD ~10:00pm (same as Saturday) |
 

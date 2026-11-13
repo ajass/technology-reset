@@ -46,7 +46,7 @@ The floor is established. Boys self-manage their free time. Parents step back fr
 
 - Parent checks homework when boys arrive: "Any homework? Show me it's done."
 - Screens available only after parent verifies homework is done
-- Parent enforces dishes, garbage, no-screens-at-dinner, screens off, bedtime
+- Parent enforces dishes, garbage, screens off, bedtime
 - Parent initiates pass down conversation when Aaron gets home from work
 
 ### Phase 2 — Trial
@@ -61,7 +61,6 @@ The floor is established. Boys self-manage their free time. Parents step back fr
 
 - Dishes after dinner (both boys, together)
 - Garbage and recycling bins taken out to garage — done as needed (alternates daily: Sean / Liam — rotation TBD with Denise)
-- No screens during dinner
 - Screens off at [TBD — proposed 9:30pm, same as Saturday] — **ALL screens** (gaming, YouTube, TV, reels, phones, iPads). No exceptions.
 - Bedtime at [TBD — proposed 10:00pm, same as Saturday]
 
@@ -99,7 +98,6 @@ The floor is established. Boys self-manage their free time. Parents step back fr
 
 - Dishes after dinner (both boys, together)
 - Garbage and recycling bins taken out to garage — done as needed (alternates daily)
-- No screens during dinner
 - Screens off at [TBD — proposed 9:30pm, +30 min from school night] — **ALL screens**, no exceptions.
 - Bedtime at [TBD — proposed 10:00pm, +30 min from school night]
 
@@ -140,7 +138,6 @@ The floor is established. Boys self-manage their free time. Parents step back fr
 
 - Dishes after dinner (both boys, together)
 - Garbage and recycling bins taken out to garage — done as needed (alternates daily)
-- No screens during dinner
 - Screens off at 9:00pm — **ALL screens**, no exceptions.
 - 9:00-9:30pm is wind-down time — screen-free.
 - Bedtime 9:30pm.
@@ -155,7 +152,7 @@ The floor is established. Boys self-manage their free time. Parents step back fr
 
 - Parent checks homework when boys get home: "Any homework? Show me it's done."
 - Screens available only after parent verifies homework is done
-- Parent enforces dishes, garbage, no-screens-at-dinner, 9pm screens off, bedtime
+- Parent enforces dishes, garbage, 9pm screens off, bedtime
 - Parent actively monitors the 9pm transition
 
 ### Phase 2 — Trial
@@ -174,7 +171,6 @@ The floor is established. Boys self-manage their free time. Parents step back fr
 
 - Dishes after dinner (both boys, together)
 - Garbage and recycling bins taken out to garage — done right after dishes (alternates daily: Sean / Liam)
-- No screens during dinner
 - Screens off at 9:00pm — **ALL screens** (gaming, YouTube, TV, reels, phones, iPads). No exceptions.
 - 9:00-9:30pm is wind-down time — screen-free.
 - Bedtime 9:30pm.
@@ -218,7 +214,6 @@ The floor is established. Boys self-manage their free time. Parents step back fr
 
 - Dishes after dinner (both boys, together)
 - Garbage and recycling bins taken out to garage — done as needed (alternates daily)
-- No screens during dinner
 - Screens off at 9:00pm — **ALL screens**, no exceptions.
 - Bedtime 9:30pm.
 
@@ -246,7 +241,6 @@ The floor is established. Boys self-manage their free time. Parents step back fr
 - Internet safety protections
 - YouTube blocked on iPads, allowed on TV with autoplay off
 - Screens off means **ALL screens** — no co-watching exceptions
-- No screens during dinner
 - Garbage and recycling: part of the floor — done after dishes (week) / as needed (other days). Not a screen gate.
 - Impromptu asks: when we ask for help with something unscheduled, you help. No pushback. Every day.
 - Family meals (with flexibility — see open items)

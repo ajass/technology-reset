@@ -22,8 +22,7 @@ flowchart TD
     C -->|No| E["⚠️ Finish homework<br/>then screens"]
     E --> D
     D --> F["🍽️ Dinner<br/>~6:00pm"]
-    F --> G["🚫 No screens<br/>during dinner"]
-    G --> H["🧹 Dishes<br/>both boys, together"]
+    F --> H["🧹 Dishes<br/>both boys, together"]
     H --> I["🗑️ Garbage/recycling<br/>to garage — after dishes"]
     I --> J["🎮 Free time"]
     J --> K["🔇 Parent enforces screens off<br/>9:00pm — ALL screens"]
@@ -50,8 +49,7 @@ flowchart TD
     C -->|No| E["⚠️ Parent redirects:<br/>finish, then screens<br/>log Yellow/Red"]
     E --> D
     D --> F["🍽️ Dinner<br/>~6:00pm"]
-    F --> G["🚫 No screens<br/>during dinner"]
-    G --> H["🧹 Dishes<br/>both boys, together"]
+    F --> H["🧹 Dishes<br/>both boys, together"]
     H --> I["🗑️ Garbage/recycling<br/>to garage — after dishes"]
     I --> J["🎮 Free time"]
     J --> K["🔇 Screens off<br/>9:00pm — ALL screens<br/>self-managed, scored"]
@@ -80,7 +78,6 @@ flowchart TD
 | Before screens | Homework first. No recreational screens before school. |
 | Dishes | After dinner, both boys, together |
 | Garbage/recycling | Done right after dishes (alternates daily). Part of the floor, not a screen gate. |
-| Dinner | No screens during dinner |
 | Screens off | 9:00pm — **ALL screens** (gaming, YouTube, TV, reels, phones, iPads). No exceptions. |
 | Wind down | 9:00-9:30pm screen-free |
 | Bedtime | 9:30pm |

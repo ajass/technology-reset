@@ -36,8 +36,7 @@ flowchart TD
     G --> F
     F --> I["🏠 Aaron gets home<br/>~5:00pm — verifies floor"]
     I --> J["🍽️ Dinner"]
-    J --> K["🚫 No screens<br/>during dinner"]
-    K --> L["🧹 Dishes<br/>both boys, together"]
+    J --> L["🧹 Dishes<br/>both boys, together"]
     L --> M["🗑️ Garbage/recycling<br/>to garage — as needed"]
     M --> N["🎮 Free time"]
     N --> O["🔇 Parent enforces screens off<br/>9:00pm — ALL screens"]
@@ -77,8 +76,7 @@ flowchart TD
     G --> F
     F --> I["🏠 Aaron gets home<br/>~5:00pm — light check"]
     I --> J["🍽️ Dinner"]
-    J --> K["🚫 No screens<br/>during dinner"]
-    K --> L["🧹 Dishes<br/>both boys, together"]
+    J --> L["🧹 Dishes<br/>both boys, together"]
     L --> M["🗑️ Garbage/recycling<br/>to garage — as needed"]
     M --> N["🎮 Free time"]
     N --> O["🔇 Screens off<br/>9:00pm — ALL screens<br/>self-managed, scored"]
@@ -116,7 +114,6 @@ flowchart TD
 | After floor met | Screens available. Self-managed time (Phase 2). |
 | Dishes | After dinner, both boys, together |
 | Garbage/recycling | Done as needed (alternates daily). Part of the floor, not a screen gate. |
-| Dinner | No screens during dinner |
 | Screens off | 9:00pm — **ALL screens**, no exceptions. |
 | Bedtime | 9:30pm |
 

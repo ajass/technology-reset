@@ -44,7 +44,6 @@ This is the core of the plan. The floor (homework, chores, family participation)
 
 The floor itself doesn't change. These are non-negotiable in Phase 1 and Phase 2:
 - No recreational screens before school
-- No screens during dinner
 - Screens off means ALL screens (gaming, YouTube, TV, reels, phones, iPads)
 - Internet safety protections
 - Bedtime and screen-off times
@@ -69,7 +68,6 @@ The floor itself doesn't change. These are non-negotiable in Phase 1 and Phase 2
 - **Homework first, not time-based.** Responsibilities before screens, no clock to fight over.
 - **Garbage and recycling: part of the floor.** Done after dishes (week) / as needed (other days). Not a screen gate.
 - **Screens off at 9pm = ALL screens** (including reels). No co-watching exceptions.
-- **No screens during dinner.** The one hard boundary during free time.
 - **Game-by-game evaluation.** Not platform bans — we approve individual titles.
 - **Weekly chores on Saturday.** Sunday is a spot check.
 - **Friday and Saturday are their own days.** School days are Monday-Thursday.

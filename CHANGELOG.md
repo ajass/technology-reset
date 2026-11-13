@@ -2,6 +2,11 @@
 
 All notable changes to the technology reset plan, tracked by date.
 
+## 2026-11-13 (Session 3)
+
+### Removed
+- **"No screens during dinner" rule removed from all documents.** The boys already understand this — it doesn't need to be stated as an explicit rule in the plan. Removed from: all 10 flowcharts (dinner now flows directly to dishes), all rules tables, README key decisions and "What Stays" list, floor-expectations evening rules and "What Stays" section, kid presentation script.
+
 ## 2026-11-13 (Session 2)
 
 ### Changed — Two-Phase Model Made Explicit Across All Documents

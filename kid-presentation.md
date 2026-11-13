@@ -36,7 +36,6 @@ Here are the specific daily rules, and we're putting them on the fridge so every
 
 - Bedtime is 9:30pm, same as your dad's house
 - Screens off 30 minutes before bedtime, so at 9:00pm — and that means ALL screens. Phones, iPads, TV, everything. Even reels.
-- No screens during dinner. Dinner is family time.
 - Garbage and recycling bins go out to the garage before screens. You alternate — Sean one day, Liam the next.
 - When we ask you to help with something that's not on the schedule — like holiday decorations or coming to Costco — you help. No pushback. That's part of being in this family.
 

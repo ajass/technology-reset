@@ -31,8 +31,7 @@ flowchart TD
     E -->|No| G["⚠️ Finish spot check<br/>then screens"]
     G --> F
     F --> H["🍽️ Dinner"]
-    H --> I["🚫 No screens<br/>during dinner"]
-    I --> J["🧹 Dishes<br/>both boys, together"]
+    H --> J["🧹 Dishes<br/>both boys, together"]
     J --> K["🗑️ Garbage/recycling<br/>to garage — as needed"]
     K --> L["🎮 Free time"]
     L --> M["🔇 Parent enforces screens off<br/>9:00pm — ALL screens"]
@@ -68,8 +67,7 @@ flowchart TD
     E -->|No| G["⚠️ Parent redirects:<br/>finish spot check, then screens<br/>log Yellow/Red"]
     G --> F
     F --> H["🍽️ Dinner"]
-    H --> I["🚫 No screens<br/>during dinner"]
-    I --> J["🧹 Dishes<br/>both boys, together"]
+    H --> J["🧹 Dishes<br/>both boys, together"]
     J --> K["🗑️ Garbage/recycling<br/>to garage — as needed"]
     K --> L["🎮 Free time"]
     L --> M["🔇 Screens off<br/>9:00pm — ALL screens<br/>self-managed, scored"]
@@ -101,7 +99,6 @@ flowchart TD
 | Before screens | Spot check done first. |
 | Garbage/recycling | Done as needed (alternates daily). Part of the floor, not a screen gate. |
 | Dishes | After dinner, both boys, together. |
-| Dinner | No screens during dinner. |
 | Screens off | 9:00pm — **ALL screens**, no exceptions. |
 | Bedtime | 9:30pm — **school night, back to normal** |
 

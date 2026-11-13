@@ -29,8 +29,7 @@ flowchart TD
     E -->|No| G["⚠️ Finish chores<br/>then screens"]
     G --> F
     F --> H["🍽️ Dinner"]
-    H --> I["🚫 No screens<br/>during dinner"]
-    I --> J["🧹 Dishes<br/>both boys, together"]
+    H --> J["🧹 Dishes<br/>both boys, together"]
     J --> K["🗑️ Garbage/recycling<br/>to garage — as needed"]
     K --> L["🎮 Free time"]
     L --> M["🔇 Parent enforces screens off<br/>TBD ~9:30pm — ALL screens"]
@@ -63,8 +62,7 @@ flowchart TD
     E -->|No| G["⚠️ Parent redirects:<br/>finish chores, then screens<br/>log Yellow/Red"]
     G --> F
     F --> H["🍽️ Dinner"]
-    H --> I["🚫 No screens<br/>during dinner"]
-    I --> J["🧹 Dishes<br/>both boys, together"]
+    H --> J["🧹 Dishes<br/>both boys, together"]
     J --> K["🗑️ Garbage/recycling<br/>to garage — as needed"]
     K --> L["🎮 Free time"]
     L --> M["🔇 Screens off<br/>TBD ~9:30pm — ALL screens<br/>self-managed, scored"]
@@ -94,7 +92,6 @@ flowchart TD
 | Before screens | Weekly chores done first. |
 | Garbage/recycling | Done as needed (alternates daily). Part of the floor, not a screen gate. |
 | Dishes | After dinner, both boys, together. |
-| Dinner | No screens during dinner. |
 | Screens off | TBD ~9:30pm — ALL screens, no exceptions. |
 | Bedtime | TBD ~10:00pm. |
 | Impromptu | When asked to help (decorations, Costco, etc.), help. No pushback. |
