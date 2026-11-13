@@ -9,7 +9,7 @@ flowchart TD
     A["🏠 Get home<br/>~4:00pm"] --> B["Before screens"]
     B --> B1["📚 Homework<br/>if any, done first"]
     B1 --> C{"Done?"}
-    C -->|Yes| D["🎮 Free time<br/>screens available (8am+)"]
+    C -->|Yes| D["🎮 Free time<br/>screens available"]
     C -->|No| E["⚠️ Finish<br/>then screens"]
     E --> D
     D --> F["🍽️ Dinner<br/>~6:00pm"]
@@ -36,7 +36,6 @@ flowchart TD
 
 | Rule | Detail |
 |------|--------|
-| Screens available | 8:00am (current rule, not changing — but kids at school until ~4pm) |
 | Before screens | Homework first. No recreational screens before school. |
 | Dishes | After dinner, both boys, together |
 | Garbage/recycling | Done right after dishes (alternates daily). Part of the floor, not a screen gate. |

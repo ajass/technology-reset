@@ -6,7 +6,7 @@
 
 ```mermaid
 flowchart TD
-    A["🛏️ Wake up"] --> B["📱 Screens available<br/>8:00am+"]
+    A["🛏️ Wake up"] --> B["📱 Screens available"]
     B --> C["🚫 Screens off 10:00am<br/>get dressed, eat, ready for day"]
     C --> D["✅ Before screens"]
     D --> D1["🛏️ Room tidy"]
@@ -46,7 +46,6 @@ flowchart TD
 
 | Rule | Detail |
 |------|--------|
-| Screens available | 8:00am (current rule, not changing) |
 | 10:00am | Screens off. Get dressed, eat, ready for the day. |
 | Before screens | Spot check done first. |
 | Garbage/recycling | Done as needed (alternates daily). Part of the floor, not a screen gate. |

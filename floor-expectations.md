@@ -3,11 +3,11 @@
 **Aaron & Denise — Technology Reset for Sean & Liam**
 *Last updated: November 13,2026*
 
-> **Screens are available at 8:00am on all days. This is the current rule and is not changing.**
-
 ---
 
 ## 01 — Friday (when boys arrive — evening with Aaron and Denise)
+
+*Note: Every other week they are with us in the morning. The other week they are at their dad's and we pick them up after school. The Friday evening is the same either way.*
 
 **Evening:**
 - Dishes after dinner (both boys, together)
@@ -16,7 +16,7 @@
 - Screens off at [TBD — proposed 9:30pm, same as Saturday] — **ALL screens** (gaming, YouTube, TV, reels,, phones,, iPads). No exceptions.
 - Bedtime at [TBD — proposed 10:00pm, same as Saturday]
 
-> Friday is the arrival day. The Friday pass down happens when they arrive (see below). Evening rules are the same as Saturday. Garbage is part of the floor — it gets done, but not a screen gate.
+> Friday is the arrival day. The morning differs by custody week — Week A they wake up with us, Week B we pick them up after school. The evening is the same either way. The pass down happens first (see below), then the evening schedule applies. Garbage is part of the floor — it gets done, but not a screen gate.
 
 ---
 
@@ -87,7 +87,7 @@
 - 9:00-9:30pm is wind-down time — screen-free.
 - Bedtime 9:30pm.
 
-> Screens are available at 8am, but kids are at school. When they get home at ~4pm, the homework-first gate applies. Garbage is done after dishes — part of the floor, not a screen gate.
+> When they get home at ~4pm, the homework-first gate applies. Garbage is done after dishes — part of the floor, not a screen gate.
 
 ---
 
@@ -133,7 +133,6 @@
 
 ## What Stays (non-negotiable, all day types)
 
-- Screens available at 8:00am (current rule, not changing)
 - No recreational screens before school
 - Internet safety protections
 - YouTube blocked on iPads, allowed on TV with autoplay off

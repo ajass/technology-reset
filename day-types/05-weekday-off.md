@@ -6,7 +6,7 @@
 
 ```mermaid
 flowchart TD
-    A["🛏️ Wake up"] --> B["📱 Screens available<br/>8:00am+"]
+    A["🛏️ Wake up"] --> B["📱 Screens available"]
     B --> C["🚫 Screens off 10:00am<br/>get dressed, eat breakfast"]
     C --> D{"Denise checks<br/>one transition"}
     D --> E["📋 Before screens"]
@@ -43,7 +43,6 @@ flowchart TD
 
 | Rule | Detail |
 |------|--------|
-| Screens available | 8:00am (current rule, not changing) |
 | 10:00am | Screens off. Get dressed, eat breakfast. Denise checks. |
 | Before screens | Floor checklist done. |
 | After floor met | Screens available. Self-managed time. |

@@ -6,7 +6,7 @@
 
 ```mermaid
 flowchart TD
-    A["🛏️ Wake up"] --> B["📱 Screens available<br/>8:00am+"]
+    A["🛏️ Wake up"] --> B["📱 Screens available"]
     B --> C["🚫 Screens off 10:00am<br/>get dressed, eat, ready for day"]
     C --> D["🧺 Before screens"]
     D --> D1["👕 Laundry<br/>wash, dry, put away"]
@@ -42,7 +42,6 @@ flowchart TD
 
 | Rule | Detail |
 |------|--------|
-| Screens available | 8:00am (current rule, not changing) |
 | 10:00am | Screens off. Get dressed, eat, ready for the day. |
 | Before screens | Weekly chores done first. |
 | Garbage/recycling | Done as needed (alternates daily). Part of the floor, not a screen gate. |
@@ -57,4 +56,4 @@ flowchart TD
 1. **10:00am → chores.** Screens stop, weekly chores start. This is where the floor is tested.
 2. **~9:30pm screens off.** All screens off. Screen Transition is scored — do they stop when asked?
 
-> Garbage is done as needed after dinner — not a before-screens gate. Screens are available at 8am; the 10am get-dressed transition is the gate.
+> Garbage is done as needed after dinner — not a before-screens gate. 
