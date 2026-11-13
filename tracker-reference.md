@@ -4,6 +4,16 @@
 
 ---
 
+## Two Phases, One Tracker
+
+The tracker runs through both phases. The categories and scoring are the same. What changes is what the data measures:
+
+- **Phase 1 — Baseline (Nov 13-20):** Data shows behavior under parent-enforced structure. This is the starting point.
+- **Phase 2 — Trial (Nov 27 - Dec 27):** Data shows behavior under autonomy. This is the test.
+- **30-Day Review (~Dec 27):** Compare Phase 1 baseline to Phase 2 trial. Did autonomy improve, maintain, or degrade behavior? The comparison drives the decision.
+
+---
+
 ## Categories
 
 Four categories, tracked daily for each boy (Sean and Liam scored separately).
@@ -12,7 +22,7 @@ Four categories, tracked daily for each boy (Sean and Liam scored separately).
 
 | Green | Yellow | Red |
 |-------|--------|-----|
-| Done on time, no reminder | Done, but needed reminder | Late or not done |
+| Done on time, no reminder | Done, but needed a reminder | Late or not done |
 
 ### Chores
 
@@ -28,11 +38,15 @@ Four categories, tracked daily for each boy (Sean and Liam scored separately).
 |-------|--------|-----|
 | Screens off by bedtime | Late | Significantly late |
 
+> **Phase difference:** In Phase 1, "by bedtime" means they turned off when the parent said so. In Phase 2, Green means they turned it off on their own — no parent reminder needed.
+
 ### Screen Transition
 
 | Green | Yellow | Red |
 |-------|--------|-----|
 | Stopped when asked, no pushback | Pushed back | Refused |
+
+> **Phase difference:** In Phase 1, all transitions are parent-initiated. In Phase 2, the 9pm screens-off transition is self-managed — Green means they did it on their own, Yellow means they needed a reminder, Red means they refused when reminded. The dinner transition is parent-initiated in both phases.
 
 ---
 
@@ -43,29 +57,29 @@ Four categories, tracked daily for each boy (Sean and Liam scored separately).
 A grid where each day is marked Green/Yellow/Red on the four categories. Takes 30 seconds per kid at the end of each day. Dropdowns with color coding — the cell turns green/yellow/red automatically.
 
 **Structure:**
-- Sean baseline: 21 days
-- Liam baseline: 21 days
-- Sean trial: 30 days
-- Liam trial: 30 days
+- Sean baseline: 7 days (Nov 13-20)
+- Liam baseline: 7 days (Nov 13-20)
+- Sean trial: 30 days (Nov 27 - Dec 27)
+- Liam trial: 30 days (Nov 27 - Dec 27)
 
 ### Weekly Summary
 
-Auto-calculates from the daily data. Shows green counts per category per week for each boy.
+Auto-calculates from the daily data. Shows green counts per category per week for each boy. Separates baseline weeks from trial weeks.
 
 ### 30-Day Review
 
-Compares the baseline period to the trial period side by side for each boy. Shows green rate percentages so the trend is visible at a glance.
+Compares the baseline period (Phase 1) to the trial period (Phase 2) side by side for each boy. Shows green rate percentages so the trend is visible at a glance. This is the document that drives the review conversation.
 
 ---
 
 ## Timeline
 
-| Phase | Dates | Tracking |
-|-------|--------|-----------|
-| Baseline | Nov 13-20 | Daily tracking (boys with us) |
-| Dad's week | Nov 20-27 | /no tracking |
-| Trial | Nov 27 - Dec ~27 | Daily tracking (boys with us, ~16 tracked days across 2.5 custody cycles) |
-| Review | ~Dec 27 | Compare baseline vs trial data |
+| Phase | Dates | Tracking | What the data measures |
+|-------|--------|-----------|----------------------|
+| **Phase 1 — Baseline** | Nov 13-20 | Daily tracking (boys with us) | Behavior under parent-enforced structure |
+| Dad's week | Nov 20-27 | /no tracking | — |
+| **Phase 2 — Trial** | Nov 27 - Dec ~27 | Daily tracking (boys with us, ~16 tracked days across 2.5 custody cycles) | Behavior under autonomy |
+| **Review** | ~Dec 27 | Compare baseline vs trial data | Did autonomy improve, maintain, or degrade behavior? |
 
 > **Custody note:** The 30-day trial spans ~4.5 calendar weeks, but boys are only with us ~16 days (custody alternation). Tracker data has gaps during dad's weeks. Consistent patterns across tracked weeks are meaningful even with gaps.
 
@@ -73,10 +87,11 @@ Compares the baseline period to the trial period side by side for each boy. Show
 
 ## Consequences Quick Reference
 
-| Trigger | Response |
-|----------|----------|
-| On screens, floor not met | Redirect: "get it done, then screens back." Comply = Yellow. Refuse = Red. |
-| 3+ Reds in a week | Structural rollback: parent-checked structure for 2 weeks. Then re-test autonomy. |
-| After 2-week rollback | Re-test autonomy. Path back to freedom. |
+| Trigger | Phase | Response |
+|----------|-------|----------|
+| Floor not met | Phase 1 | Screens don't open. Parent holds gate until done. |
+| On screens, floor not met | Phase 2 | Redirect: "get it done, then screens back." Comply = Yellow. Refuse = Red. |
+| 3+ Reds in a week | Phase 2 | Structural rollback to Phase 1 for 2 weeks. Then re-test autonomy. |
+| After 2-week rollback | Phase 2 | Re-test autonomy. Path back to freedom. |
 
 The tracker is the evidence. The data drives the conversation, not gut feeling or mood.

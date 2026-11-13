@@ -2,18 +2,28 @@
 
 *Full day — school night evening*
 
-## Schedule
+---
+
+## Two Phases
+
+**Phase 1 — Baseline (Nov 13-20):** Parent enforces 10am transition. Parent checks each spot check item before screens. Parent enforces school-night evening.
+
+**Phase 2 — Trial (Nov 27+):** Boys self-manage 10am transition and spot check. Parent steers on failure. Evening transitions self-managed and scored.
+
+---
+
+## Phase 1 — Baseline Schedule
 
 ```mermaid
 flowchart TD
     A["🛏️ Wake up"] --> B["📱 Screens available"]
-    B --> C["🚫 Screens off 10:00am<br/>get dressed, eat, ready for day"]
-    C --> D["✅ Before screens"]
+    B --> C["🚫 Parent enforces screens off 10:00am<br/>get dressed, eat, ready for day"]
+    C --> D["✅ Parent checks spot check"]
     D --> D1["🛏️ Room tidy"]
     D --> D2["🛏️ Bed made"]
     D --> D3["🧸 Stuffies picked up"]
     D --> D4["👕 Clean laundry put away<br/>best effort"]
-    D1 --> E{"Spot check done?"}
+    D1 --> E{"Parent verifies<br/>spot check done?"}
     D2 --> E
     D3 --> E
     D4 --> E
@@ -25,7 +35,7 @@ flowchart TD
     I --> J["🧹 Dishes<br/>both boys, together"]
     J --> K["🗑️ Garbage/recycling<br/>to garage — as needed"]
     K --> L["🎮 Free time"]
-    L --> M["🔇 Screens off<br/>9:00pm — ALL screens"]
+    L --> M["🔇 Parent enforces screens off<br/>9:00pm — ALL screens"]
     M --> N["🌙 Wind down<br/>9:00-9:30pm screen-free"]
     N --> O["🛏️ Bedtime<br/>9:30pm — school night"]
 
@@ -35,14 +45,55 @@ flowchart TD
     style O fill:#95a5a6
 ```
 
-## Before Screens (spot check done first)
+**Phase 1 — what's different:** Parent enforces the 10am transition. Parent verifies each spot check item before screens open. Parent enforces 9pm screens-off and bedtime.
+
+---
+
+## Phase 2 — Trial Schedule
+
+```mermaid
+flowchart TD
+    A["🛏️ Wake up"] --> B["📱 Screens available"]
+    B --> C["🚫 Screens off 10:00am<br/>self-managed transition"]
+    C --> D["✅ Spot check<br/>self-managed"]
+    D --> D1["🛏️ Room tidy"]
+    D --> D2["🛏️ Bed made"]
+    D --> D3["🧸 Stuffies picked up"]
+    D --> D4["👕 Clean laundry put away<br/>best effort"]
+    D1 --> E{"Spot check done?"}
+    D2 --> E
+    D3 --> E
+    D4 --> E
+    E -->|Yes| F["🎮 Screens available<br/>day is yours"]
+    E -->|No| G["⚠️ Parent redirects:<br/>finish spot check, then screens<br/>log Yellow/Red"]
+    G --> F
+    F --> H["🍽️ Dinner"]
+    H --> I["🚫 No screens<br/>during dinner"]
+    I --> J["🧹 Dishes<br/>both boys, together"]
+    J --> K["🗑️ Garbage/recycling<br/>to garage — as needed"]
+    K --> L["🎮 Free time"]
+    L --> M["🔇 Screens off<br/>9:00pm — ALL screens<br/>self-managed, scored"]
+    M --> N["🌙 Wind down<br/>9:00-9:30pm screen-free"]
+    N --> O["🛏️ Bedtime<br/>9:30pm — school night"]
+
+    style C fill:#e74c3c
+    style F fill:#7bc950
+    style M fill:#e74c3c
+    style O fill:#95a5a6
+```
+
+**Phase 2 — what's different:** Boys self-manage the 10am transition and spot check. If parent finds screens on with spot check undone, redirect and log Yellow/Red. 9pm screens-off is self-managed and scored.
+
+---
+
+## Before Screens — Spot Check (both phases)
 
 - [ ] Room tidy
 - [ ] Bed made
 - [ ] Stuffies picked up
 - [ ] Clean laundry put away (best effort — if not fully folded, that's okay, but what's done needs to be put away)
 
-## Rules
+## Rules (both phases)
 
 | Rule | Detail |
 |------|--------|
@@ -54,4 +105,4 @@ flowchart TD
 | Screens off | 9:00pm — **ALL screens**, no exceptions. |
 | Bedtime | 9:30pm — **school night, back to normal** |
 
-> Sunday is lighter than Saturday. No weekly chores — just a spot check to make sure rooms are ready for the school week. Garbage is done as needed. Sunday evening reverts to school-night schedule: screens off at9:00pm, bedtime 9:30pm. This is the reset point for Monday morning.
+> Sunday is lighter than Saturday. No weekly chores — just a spot check to make sure rooms are ready for the school week. Garbage is done as needed. Sunday evening reverts to school-night schedule: screens off at 9:00pm, bedtime 9:30pm. This is the reset point for Monday morning.

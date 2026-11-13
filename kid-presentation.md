@@ -8,26 +8,34 @@
 
 You guys are getting older, and we've been thinking it's time to start giving you more control over your own time. We know we've been pretty strict about screen time, and we know that's been frustrating for you sometimes.
 
-So here's what's going to change.
+So here's what's going to change — and it's going to happen in two steps.
 
-## What Changes
+## Step 1: The Baseline Week (November 13-20)
 
-We're going to stop micromanaging your screen time. During your free time, you can decide how to spend it. If you want to play Roblox or Minecraft with your friends, that's your call. We're not going to be standing over you with a timer anymore.
+Before we change anything about screen time, we're going to set up a clear schedule for what needs to happen every day and every week. Homework, chores, family meals, being part of the family. This is the floor. It happens no matter what. It's not something you do to earn screen time. It's just what being part of this family means.
+
+For this first week, we're going to run it the way we usually do — we'll check your homework, we'll check your chores, we'll make sure things get done before screens come on. Same as now, but with clearer rules so everyone knows what's expected. We're also going to track how it goes in a spreadsheet — four things: homework, chores, bedtime, and whether you stopped when we asked.
+
+This week is about getting used to the floor and seeing where you're at.
+
+## Step 2: The 30-Day Trial (Starting November 27)
+
+After the baseline week, you go to your dad's for a week. When you come back on November 27, things change.
+
+We're going to stop micromanaging your screen time. During your free time, you can decide how to spend it. If you want to play Roblox or Minecraft with your friends, that's your call. We're not going to be standing over you with a timer anymore. We're not going to pre-check your homework or your chores before you get on screens. That's on you now.
+
+Here's the deal: if we find you on screens and your stuff isn't done, we'll redirect you. "Get it done, then screens are back." That's not a punishment — it's just the sequence. If you comply, even if you grumble, that's a yellow on the tracker. If you refuse, that's a red.
 
 For your birthdays and Christmas, you're going to get access to the gaming laptops. You'll have your own guest accounts on them. You can use them for gaming during your free time.
 
-## What Stays the Same
+## What Stays the Same (Both Steps)
 
 Bedtime screen rules stay the same. No recreational screens before school. YouTube stays blocked on your iPads but you can watch it on the TV.
-
-## The Floor
-
-Before we turn on the new screen time rules, we're going to set up a clear schedule for what needs to happen every day and every week. Homework, chores, family meals, being part of the family. This is the floor. It happens no matter what. It's not something you do to earn screen time. It's just what being part of this family means.
 
 Here are the specific daily rules, and we're putting them on the fridge so everyone can see them:
 
 - Bedtime is 9:30pm, same as your dad's house
-- Screens off 30 minutes before bedtime, so at 9:00pm — and that means ALL screens. Phones,, iPads,, TV, everything. Even reels.
+- Screens off 30 minutes before bedtime, so at 9:00pm — and that means ALL screens. Phones, iPads, TV, everything. Even reels.
 - No screens during dinner. Dinner is family time.
 - Garbage and recycling bins go out to the garage before screens. You alternate — Sean one day, Liam the next.
 - When we ask you to help with something that's not on the schedule — like holiday decorations or coming to Costco — you help. No pushback. That's part of being in this family.
@@ -46,11 +54,11 @@ Once those are done, screens are on for the rest of the day.
 
 On Sundays, it's just a spot check — room tidy, bed made, stuffies picked up, laundry put away. Lighter than Saturday.
 
-## The 30-Day Trial
-
-We're going to try this for 30 days. At the end of 30 days, we all sit down and talk about how it went. Are you getting your stuff done? Are you sleeping okay? Are you still hanging out with friends and doing things besides screens? If something isn't working, we'll adjust.
+## The Tracker
 
 We have a tracker — it's a shared spreadsheet that Aaron and Denise fill in at the end of each day. Four things: did you do your homework, did you do your chores, did you make bedtime, and did you stop when we asked without pushback. Green, yellow, or red for each one. It takes 30 seconds. The data does the talking — not our gut feeling.
+
+During the baseline week, the tracker shows us where you're starting from. During the 30-day trial, the tracker shows us whether the freedom is working.
 
 ## Gaming
 
@@ -60,7 +68,7 @@ The laptops are for Roblox and Minecraft. We know you're going to see your frien
 
 If you're on screens and you haven't done your stuff, we'll redirect you. Get it done, then screens are back. That's not a punishment — it's just the sequence.
 
-If the tracker shows a pattern — three or more reds in a week — we'll sit down and look at the data together. The data shows this isn't working yet, and that's okay. We'll go back to a checked structure for two weeks where Aaron or Denise verifies your homework and chores before screens open. Then we try again.
+If the tracker shows a pattern — three or more reds in a week — we'll sit down and look at the data together. The data shows this isn't working yet, and that's okay. We'll go back to a checked structure for two weeks where Aaron or Denise verifies your homework and chores before screens open. That's basically going back to Step 1 for two weeks. Then we try again.
 
 There's always a path back to the freedom. Show us you can handle the structure, and it comes back.
 
@@ -77,6 +85,8 @@ Any questions?
 1. **Deliver this together.** Both present, same message, no disagreement in front of them. If you disagree, work it out beforehand.
 2. **Have the chore/homework schedule drafted before this conversation,** but present it as a draft they can give input on. "Here's what we're thinking. What do you think?" Not "here are your new chores."
 3. **Let them react.** They will have feelings about the Steam/Epic Games restriction. Acknowledge it ("we know that's disappointing") without relitigating it. The decision is made. But hear them out.
-4. **The 30-day trial start date should be concrete.** "Starting November 27" — the Monday after they're back from their dad's. Vague timelines invite testing.
-5. **Write the responsibility structure down.** Put it on the fridge or somewhere visible. Not as a threat, as a reference. "What do I have to do today?" → point to the list.
-6. **Show them the tracker.** They should know the data exists and what's being tracked. Transparency builds trust — they know we're not just going by gut feeling.
+4. **Be clear about the two steps.** The baseline week is not the trial. The baseline week is parent-enforced — same structure as now, just clearer. The trial is when autonomy starts. If they ask "so when do we get freedom?" the answer is "November 27, after the baseline week and your dad's week."
+5. **The 30-day trial start date should be concrete.** "Starting November 27" — the Monday after they're back from their dad's. Vague timelines invite testing.
+6. **Write the responsibility structure down.** Put it on the fridge or somewhere visible. Not as a threat, as a reference. "What do I have to do today?" → point to the list.
+7. **Show them the tracker.** They should know the data exists and what's being tracked. Transparency builds trust — they know we're not just going by gut feeling.
+8. **Explain the rollback in terms of the two steps.** "If the data shows it's not working, we go back to Step 1 for two weeks, then try Step 2 again." This makes it feel like a process, not a punishment.
