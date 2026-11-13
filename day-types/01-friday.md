@@ -1,6 +1,6 @@
 # 01 — Friday
 
-*Our Friday — evening with Aaron and Denise*
+*When boys arrive — evening with Aaron and Denise*
 *Every other week they are with us Friday morning. That's just a regular school day — see [04 — School Day](04-school-day.md). The other week they come home to us after school. The Friday evening is the same either way.*
 
 ## Schedule — Week B (we pick them up after school)
