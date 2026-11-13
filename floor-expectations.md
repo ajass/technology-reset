@@ -7,7 +7,7 @@
 
 ## 01 — Friday (when boys arrive — evening with Aaron and Denise)
 
-*Every other week they are with us Friday morning. That's just a regular school day — see [04 — School Day](04-school-day.md). The other week we pick them up after school. The Friday evening is the same either way.*
+*Every other week they are with us Friday morning. That's just a regular school day — see [04 — School Day](04-school-day.md). The other week they come home to us after school. The Friday evening is the same either way.*
 
 **Evening:**
 - Dishes after dinner (both boys, together)
@@ -16,7 +16,7 @@
 - Screens off at [TBD — proposed 9:30pm, same as Saturday] — **ALL screens** (gaming, YouTube, TV, reels,, phones,, iPads). No exceptions.
 - Bedtime at [TBD — proposed 10:00pm, same as Saturday]
 
-> Friday is the arrival day. Every other week, Friday morning is a regular school day (see 04-school-day.md). The other week we pick them up after school. Either way, the pass down happens when they arrive (see below), then the evening schedule applies (same as Saturday). Garbage is part of the floor — it gets done, but not a screen gate.
+> Friday is the arrival day. Every other week, Friday morning is a regular school day (see 04-school-day.md). The other week they come home to us after school. Either way, the pass down happens when they arrive (see below), then the evening schedule applies (same as Saturday). Garbage is part of the floor — it gets done, but not a screen gate.
 
 ---
 

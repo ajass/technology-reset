@@ -1,13 +1,13 @@
 # 01 — Friday
 
 *When boys arrive — evening with Aaron and Denise*
-*Every other week they are with us Friday morning. That's just a regular school day — see [04 — School Day](04-school-day.md). The other week we pick them up after school. The Friday evening is the same either way.*
+*Every other week they are with us Friday morning. That's just a regular school day — see [04 — School Day](04-school-day.md). The other week they come home to us after school. The Friday evening is the same either way.*
 
 ## Schedule — Week B (we pick them up after school)
 
 ```mermaid
 flowchart TD
-    A["🏫 Pick up from dad's<br/>after school"] --> B["🏠 Home<br/>~4:00pm"]
+    A["🏫 Come home to us<br/>after school"] --> B["🏠 Home<br/>~4:00pm"]
     B --> C["📚 Homework first<br/>if any"]
     C --> D["🎮 Free time<br/>screens available"]
     D --> E["🍽️ Dinner"]
@@ -35,4 +35,4 @@ flowchart TD
 | Screens off | TBD ~9:30pm — ALL screens, no exceptions |
 | Bedtime | TBD ~10:00pm (same as Saturday) |
 
-> Friday is the arrival day. Every other week, Friday morning is a regular school day (see 04-school-day.md). The other week we pick them up after school. Either way, the pass down happens when they arrive, then the evening schedule applies (same as Saturday). Garbage is part of the floor — it gets done, but not a screen gate.
+> Friday is the arrival day. Every other week, Friday morning is a regular school day (see 04-school-day.md). The other week they come home to us after school. Either way, the pass down happens when they arrive, then the evening schedule applies (same as Saturday). Garbage is part of the floor — it gets done, but not a screen gate.
