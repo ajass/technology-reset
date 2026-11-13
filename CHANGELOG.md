@@ -4,6 +4,22 @@ All notable changes to the technology reset plan, tracked by date.
 
 ## 2026-11-13 (Session 3)
 
+### Changed — Timeline Extended: Two Baseline Weeks Before Autonomy
+
+Phase 1 (Baseline) extended from one week to two. The boys get an extra week of parent-enforced structure before autonomy is tested.
+
+**Old timeline:**
+- Phase 1: Nov 13-20 (1 week)
+- Dad's week: Nov 20-27
+- Phase 2: Nov 27 - Dec 27
+
+**New timeline:**
+- Phase 1: Nov 13-20 and Nov 27-Dec 4 (2 tracked weeks)
+- Dad's weeks: Nov 20-27 and Dec 4-11 (no tracking)
+- Phase 2: Dec 11 - ~Jan 10
+
+Updated all date references across README, floor-expectations, kid-presentation, non-compliance-examples, tracker-reference, and all 5 day-type docs. Tracker baseline structure updated from 7 days to 14 days per boy.
+
 ### Removed
 - **"No screens during dinner" rule removed from all documents.** The boys already understand this — it doesn't need to be stated as an explicit rule in the plan. Removed from: all 10 flowcharts (dinner now flows directly to dishes), all rules tables, README key decisions and "What Stays" list, floor-expectations evening rules and "What Stays" section, kid presentation script.
 
@@ -34,7 +50,7 @@ All notable changes to the technology reset plan, tracked by date.
 | Screen access | Parent grants after floor verified | Self-granted within the floor |
 | Parent role | Enforcer | Observer / steerer |
 | If floor unmet | Screens stay closed until done | Redirect + log, screens resume after |
-| Duration | 1 week (Nov 13-20) | 30 days (Nov 27 - Dec 27) |
+| Duration | 2 weeks (Nov 13-20, Nov 27-Dec 4) | 30 days (Dec 11 - Jan 10) |
 
 ## 2026-11-13 (Session 1)
 

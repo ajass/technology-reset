@@ -6,9 +6,9 @@
 
 ## Two Phases
 
-**Phase 1 — Baseline (Nov 13-20):** Parent checks homework before screens. Parent enforces all transitions. No autonomy yet.
+**Phase 1 — Baseline (Nov 13-20 and Nov 27-Dec 4):** Parent checks homework before screens. Parent enforces all transitions. No autonomy yet.
 
-**Phase 2 — Trial (Nov 27+):** Boys self-manage homework before screens. Parent steers on failure. Evening transitions self-managed and scored.
+**Phase 2 — Trial (Dec 11+):** Boys self-manage homework before screens. Parent steers on failure. Evening transitions self-managed and scored.
 
 ---
 

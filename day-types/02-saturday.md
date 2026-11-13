@@ -6,9 +6,9 @@
 
 ## Two Phases
 
-**Phase 1 — Baseline (Nov 13-20):** Parent enforces 10am transition. Parent checks each weekly chore before screens. Parent enforces evening transitions.
+**Phase 1 — Baseline (Nov 13-20 and Nov 27-Dec 4):** Parent enforces 10am transition. Parent checks each weekly chore before screens. Parent enforces evening transitions.
 
-**Phase 2 — Trial (Nov 27+):** Boys self-manage 10am transition and weekly chores. Parent steers on failure. Evening transitions self-managed and scored.
+**Phase 2 — Trial (Dec 11+):** Boys self-manage 10am transition and weekly chores. Parent steers on failure. Evening transitions self-managed and scored.
 
 ---
 

@@ -9,7 +9,7 @@
 
 The floor (homework, chores, family participation) is the same throughout. What changes is who enforces it and when.
 
-### Phase 1 — Baseline (Nov 13-20): Parent-Enforced
+### Phase 1 — Baseline (Nov 13-20 and Nov 27-Dec 4): Parent-Enforced
 
 Parents pre-check each floor item before screens open. The boys do not self-manage yet. This is structured enforcement with a tracker running alongside it to collect baseline data.
 
@@ -18,7 +18,7 @@ Parents pre-check each floor item before screens open. The boys do not self-mana
 - Parent enforces all transitions (10am, 9pm screens off, bedtime)
 - Tracker marks collected daily
 
-### Phase 2 — Trial (Nov 27 - Dec 27): Autonomy with Steering
+### Phase 2 — Trial (Dec 11 - Jan 10): Autonomy with Steering
 
 The floor is established. Boys self-manage their free time. Parents step back from pre-checking and steer on failure instead.
 

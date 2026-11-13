@@ -14,7 +14,7 @@ The plan runs in two phases. Phase 1 establishes the floor with parent enforceme
 
 This is the core of the plan. The floor (homework, chores, family participation) is the same in both phases. What changes is who enforces it and when.
 
-### Phase 1 — Baseline (Nov 13-20)
+### Phase 1 — Baseline (Nov 13-20 and Nov 27-Dec 4)
 
 **What happens:** The floor is established and parent-enforced. Parents pre-check each floor item before screens open. No autonomy yet — this is the same kind of structure the boys are used to, but with clearer expectations and a tracker running alongside it.
 
@@ -24,9 +24,9 @@ This is the core of the plan. The floor (homework, chores, family participation)
 - Parent enforces all transitions (10am, 9pm screens off, bedtime)
 - Tracker data collected daily — Green/Yellow/Red on four categories
 
-**Purpose:** Teach the floor, collect baseline data, and assess readiness. Are they close to meeting the floor on their own? Can they handle it without much steering? The baseline data answers that question before autonomy is granted.
+**Purpose:** Teach the floor, collect baseline data, and assess readiness. Are they close to meeting the floor on their own? Can they handle it without much steering? Two weeks of baseline data answers that question before autonomy is granted.
 
-### Phase 2 — 30-Day Trial (Nov 27 - Dec 27)
+### Phase 2 — 30-Day Trial (Dec 11 - Jan 10)
 
 **What happens:** The floor is already established (from Phase 1). Boys get screen autonomy — they self-manage their free time. Parents step back from pre-checking and instead steer on failure.
 
@@ -58,7 +58,7 @@ The floor itself doesn't change. These are non-negotiable in Phase 1 and Phase 2
 | **Screen access** | Granted by parent after floor verified | Self-granted — autonomy within the floor |
 | **Parent role** | Enforcer — verifies and gates | Observer — redirects when floor unmet |
 | **Tracker purpose** | Establish baseline behavior | Test autonomy, drive rollback decisions |
-| **Duration** | 1 week (Nov 13-20) | 30 days (Nov 27 - Dec 27) |
+| **Duration** | 2 weeks (Nov 13-20, Nov 27-Dec 4) | 30 days (Dec 11 - Jan 10) |
 | **If floor isn't met** | Parent keeps screens closed until done | Parent redirects, logs Yellow/Red |
 
 ---
@@ -79,10 +79,10 @@ The floor itself doesn't change. These are non-negotiable in Phase 1 and Phase 2
 
 | Phase | Dates | What happens |
 |-------|--------|-------------|
-| **Phase 1 — Baseline** | Nov 13-20 | Boys with us. Floor established, parent-enforced. Baseline data collected. |
-| Dad's week | Nov 20-27 | Boys at their dad's. No tracking. |
-| **Phase 2 — Trial starts** | Nov 27 | Boys return. Screen autonomy begins. 30-day trial. |
-| **Phase 2 — Trial review** | ~Dec 27 | Review tracker data. Adjust before birthdays/Christmas. |
+| **Phase 1 — Baseline** | Nov 13-20 and Nov 27-Dec 4 | Boys with us (two weeks). Floor established, parent-enforced. Baseline data collected. |
+| Dad's weeks | Nov 20-27 and Dec 4-11 | Boys at their dad's. No tracking. |
+| **Phase 2 — Trial starts** | Dec 11 | Boys return. Screen autonomy begins. 30-day trial. |
+| **Phase 2 — Trial review** | ~Jan 10 | Review tracker data. Adjust after holidays. |
 
 > **Note:** The 30-day trial spans ~4.5 calendar weeks, but boys are only with us ~16 days (custody alternation). Tracker data has gaps during dad's weeks. Consistent patterns across tracked weeks are meaningful even with gaps.
 

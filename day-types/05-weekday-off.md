@@ -6,9 +6,9 @@
 
 ## Two Phases
 
-**Phase 1 — Baseline (Nov 13-20):** Denise enforces 10am transition and verifies the full floor checklist before screens. Aaron verifies floor when he gets home. No autonomy.
+**Phase 1 — Baseline (Nov 13-20 and Nov 27-Dec 4):** Denise enforces 10am transition and verifies the full floor checklist before screens. Aaron verifies floor when he gets home. No autonomy.
 
-**Phase 2 — Trial (Nov 27+):** Denise still checks the 10am transition (she's home). After 10am, boys self-manage the floor checklist. Aaron does a light end-of-day check. Parent steers on failure.
+**Phase 2 — Trial (Dec 11+):** Denise still checks the 10am transition (she's home). After 10am, boys self-manage the floor checklist. Aaron does a light end-of-day check. Parent steers on failure.
 
 ---
 

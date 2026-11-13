@@ -14,9 +14,9 @@ The scores are about **behavior, not mood.** If they comply but grumble, that's 
 
 ## Phase Context
 
-**Phase 1 — Baseline (Nov 13-20):** Parents pre-check the floor before screens open. If the floor isn't met, screens don't come on — the parent holds the gate. Yellow/Red marks in Phase 1 are about how they responded to the parent's check: did they do it when asked, or did they push back / refuse? Phase 1 data establishes the baseline — what their behavior looks like under parent-enforced structure.
+**Phase 1 — Baseline (Nov 13-20 and Nov 27-Dec 4):** Parents pre-check the floor before screens open. If the floor isn't met, screens don't come on — the parent holds the gate. Yellow/Red marks in Phase 1 are about how they responded to the parent's check: did they do it when asked, or did they push back / refuse? Phase 1 data establishes the baseline — what their behavior looks like under parent-enforced structure.
 
-**Phase 2 — Trial (Nov 27 - Dec 27):** Boys self-manage. There is no pre-check gate. Yellow/Red marks in Phase 2 are about self-management failures that the parent caught: they were on screens with the floor unmet, parent redirected, and the mark reflects their response to the redirect. Phase 2 data tests whether autonomy works.
+**Phase 2 — Trial (Dec 11 - Jan 10):** Boys self-manage. There is no pre-check gate. Yellow/Red marks in Phase 2 are about self-management failures that the parent caught: they were on screens with the floor unmet, parent redirected, and the mark reflects their response to the redirect. Phase 2 data tests whether autonomy works.
 
 **Rollback (if triggered in Phase 2):** Returns to Phase 1 structure for 2 weeks. Scoring works like Phase 1 during rollback.
 

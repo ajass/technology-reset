@@ -10,7 +10,7 @@ You guys are getting older, and we've been thinking it's time to start giving yo
 
 So here's what's going to change — and it's going to happen in two steps.
 
-## Step 1: The Baseline Week (November 13-20)
+## Step 1: The Baseline (Two Weeks — November 13-20 and November 27-December 4)
 
 Before we change anything about screen time, we're going to set up a clear schedule for what needs to happen every day and every week. Homework, chores, family meals, being part of the family. This is the floor. It happens no matter what. It's not something you do to earn screen time. It's just what being part of this family means.
 
@@ -18,9 +18,9 @@ For this first week, we're going to run it the way we usually do — we'll check
 
 This week is about getting used to the floor and seeing where you're at.
 
-## Step 2: The 30-Day Trial (Starting November 27)
+## Step 2: The 30-Day Trial (Starting December 11)
 
-After the baseline week, you go to your dad's for a week. When you come back on November 27, things change.
+After the first baseline week, you go to your dad's for a week. When you come back on November 27, we do one more week of baseline — same rules, same structure. Then you go to your dad's again. When you come back on December 11, things change.
 
 We're going to stop micromanaging your screen time. During your free time, you can decide how to spend it. If you want to play Roblox or Minecraft with your friends, that's your call. We're not going to be standing over you with a timer anymore. We're not going to pre-check your homework or your chores before you get on screens. That's on you now.
 
@@ -57,7 +57,7 @@ On Sundays, it's just a spot check — room tidy, bed made, stuffies picked up, 
 
 We have a tracker — it's a shared spreadsheet that Aaron and Denise fill in at the end of each day. Four things: did you do your homework, did you do your chores, did you make bedtime, and did you stop when we asked without pushback. Green, yellow, or red for each one. It takes 30 seconds. The data does the talking — not our gut feeling.
 
-During the baseline week, the tracker shows us where you're starting from. During the 30-day trial, the tracker shows us whether the freedom is working.
+During the baseline weeks, the tracker shows us where you're starting from. During the 30-day trial, the tracker shows us whether the freedom is working.
 
 ## Gaming
 
@@ -84,8 +84,8 @@ Any questions?
 1. **Deliver this together.** Both present, same message, no disagreement in front of them. If you disagree, work it out beforehand.
 2. **Have the chore/homework schedule drafted before this conversation,** but present it as a draft they can give input on. "Here's what we're thinking. What do you think?" Not "here are your new chores."
 3. **Let them react.** They will have feelings about the Steam/Epic Games restriction. Acknowledge it ("we know that's disappointing") without relitigating it. The decision is made. But hear them out.
-4. **Be clear about the two steps.** The baseline week is not the trial. The baseline week is parent-enforced — same structure as now, just clearer. The trial is when autonomy starts. If they ask "so when do we get freedom?" the answer is "November 27, after the baseline week and your dad's week."
-5. **The 30-day trial start date should be concrete.** "Starting November 27" — the Monday after they're back from their dad's. Vague timelines invite testing.
+4. **Be clear about the two steps.** The baseline week is not the trial. The baseline week is parent-enforced — same structure as now, just clearer. The trial is when autonomy starts. If they ask "so when do we get freedom?" the answer is "December 11, after two baseline weeks and your dad's weeks."
+5. **The 30-day trial start date should be concrete.** "Starting December 11" — when they're back from their dad's second week. Vague timelines invite testing.
 6. **Write the responsibility structure down.** Put it on the fridge or somewhere visible. Not as a threat, as a reference. "What do I have to do today?" → point to the list.
 7. **Show them the tracker.** They should know the data exists and what's being tracked. Transparency builds trust — they know we're not just going by gut feeling.
 8. **Explain the rollback in terms of the two steps.** "If the data shows it's not working, we go back to Step 1 for two weeks, then try Step 2 again." This makes it feel like a process, not a punishment.

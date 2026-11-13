@@ -8,9 +8,9 @@
 
 The tracker runs through both phases. The categories and scoring are the same. What changes is what the data measures:
 
-- **Phase 1 — Baseline (Nov 13-20):** Data shows behavior under parent-enforced structure. This is the starting point.
-- **Phase 2 — Trial (Nov 27 - Dec 27):** Data shows behavior under autonomy. This is the test.
-- **30-Day Review (~Dec 27):** Compare Phase 1 baseline to Phase 2 trial. Did autonomy improve, maintain, or degrade behavior? The comparison drives the decision.
+- **Phase 1 — Baseline (Nov 13-20 and Nov 27-Dec 4):** Data shows behavior under parent-enforced structure. This is the starting point.
+- **Phase 2 — Trial (Dec 11 - Jan 10):** Data shows behavior under autonomy. This is the test.
+- **30-Day Review (~Jan 10):** Compare Phase 1 baseline to Phase 2 trial. Did autonomy improve, maintain, or degrade behavior? The comparison drives the decision.
 
 ---
 
@@ -57,10 +57,10 @@ Four categories, tracked daily for each boy (Sean and Liam scored separately).
 A grid where each day is marked Green/Yellow/Red on the four categories. Takes 30 seconds per kid at the end of each day. Dropdowns with color coding — the cell turns green/yellow/red automatically.
 
 **Structure:**
-- Sean baseline: 7 days (Nov 13-20)
-- Liam baseline: 7 days (Nov 13-20)
-- Sean trial: 30 days (Nov 27 - Dec 27)
-- Liam trial: 30 days (Nov 27 - Dec 27)
+- Sean baseline: 14 days (Nov 13-20 and Nov 27-Dec 4)
+- Liam baseline: 14 days (Nov 13-20 and Nov 27-Dec 4)
+- Sean trial: 30 days (Dec 11 - Jan 10)
+- Liam trial: 30 days (Dec 11 - Jan 10)
 
 ### Weekly Summary
 
@@ -76,10 +76,10 @@ Compares the baseline period (Phase 1) to the trial period (Phase 2) side by sid
 
 | Phase | Dates | Tracking | What the data measures |
 |-------|--------|-----------|----------------------|
-| **Phase 1 — Baseline** | Nov 13-20 | Daily tracking (boys with us) | Behavior under parent-enforced structure |
-| Dad's week | Nov 20-27 | /no tracking | — |
-| **Phase 2 — Trial** | Nov 27 - Dec ~27 | Daily tracking (boys with us, ~16 tracked days across 2.5 custody cycles) | Behavior under autonomy |
-| **Review** | ~Dec 27 | Compare baseline vs trial data | Did autonomy improve, maintain, or degrade behavior? |
+| **Phase 1 — Baseline** | Nov 13-20 and Nov 27-Dec 4 | Daily tracking (boys with us, two weeks) | Behavior under parent-enforced structure |
+| Dad's week | Nov 20-27 and Dec 4-11 | /no tracking | — |
+| **Phase 2 — Trial** | Dec 11 - ~Jan 10 | Daily tracking (boys with us, ~16 tracked days across 2.5 custody cycles) | Behavior under autonomy |
+| **Review** | ~Jan 10 | Compare baseline vs trial data | Did autonomy improve, maintain, or degrade behavior? |
 
 > **Custody note:** The 30-day trial spans ~4.5 calendar weeks, but boys are only with us ~16 days (custody alternation). Tracker data has gaps during dad's weeks. Consistent patterns across tracked weeks are meaningful even with gaps.
 
