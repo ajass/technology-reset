@@ -6,7 +6,7 @@
 
 ## Two Phases
 
-**Phase 1 — Baseline (Nov 13-20 and Nov 27-Dec 4):** Parent checks homework before screens. Parent enforces all transitions. No autonomy yet.
+**Phase 1 — Baseline (Nov 13-20 and Nov 27-Dec 4):** iPads physically held by parent until homework verified. Parent enforces all transitions. No autonomy yet.
 
 **Phase 2 — Trial (Dec 11+):** Boys self-manage homework before screens. Parent steers on failure. Evening transitions self-managed and scored.
 
@@ -16,26 +16,28 @@
 
 ```mermaid
 flowchart TD
-    A["🏠 Get home<br/>~4:00pm"] --> B["📚 Parent checks homework<br/>if any, done first"]
+    A["🏠 Get home<br/>~4:00pm"] --> IP["📱 iPads with parent<br/>not available yet"]
+    IP --> B["📚 Parent checks homework<br/>if any, done first"]
     B --> C{"Parent verifies<br/>homework done?"}
-    C -->|Yes| D["🎮 Free time<br/>screens available"]
-    C -->|No| E["⚠️ Finish homework<br/>then screens"]
-    E --> D
+    C -->|Yes| DG["📱 Parent gives iPads"]
+    C -->|No| E["⚠️ Finish homework<br/>then iPads"]
+    E --> DG
+    DG --> D["🎮 Free time<br/>screens available"]
     D --> F["🍽️ Dinner<br/>~6:00pm"]
     F --> H["🧹 Dishes<br/>both boys, together"]
     H --> I["🗑️ Garbage/recycling<br/>to garage — after dishes"]
     I --> J["🎮 Free time"]
-    J --> K["🔇 Parent enforces screens off<br/>9:00pm — ALL screens"]
+    J --> K["📱 Parent collects iPads<br/>9:00pm — ALL screens"]
     K --> L["🌙 Wind down<br/>9:00-9:30pm screen-free"]
     L --> M["🛏️ Bedtime<br/>9:30pm"]
 
     style A fill:#4a90d9
-    style D fill:#7bc950
+    style DG fill:#7bc950
     style K fill:#e74c3c
     style M fill:#95a5a6
 ```
 
-**Phase 1 — what's different:** Parent checks homework before screens open. Parent enforces 9pm screens-off and bedtime transitions.
+**Phase 1 — what's different:** iPads held by parent — not available until homework is verified. Parent hands over iPads after homework check, collects them at 9pm screens-off.
 
 ---
 

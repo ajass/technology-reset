@@ -4,6 +4,18 @@ All notable changes to the technology reset plan, tracked by date.
 
 ## 2026-11-13 (Session 3)
 
+### Added — Physical iPad Gating in Phase 1
+
+During Phase 1 (Baseline), iPads are physically held by parents until the floor is verified. No morning screen time — iPads are with the parent from wake-up. Parent hands over the iPad after homework/chores/spot check is done and checked. Parent collects the iPad at screens-off time. No software parental controls needed.
+
+Updated across all documents:
+- **README** — Added to Phase 1 "How it works" and "What's Different" comparison table (new "Device gating" row). Added to Key Decisions.
+- **floor-expectations** — Added to Phase 1 overview, each day type's Phase 1 section, "What Changes" section, consequences, and rollback description. Added open item #8 (Denise may prefer parental controls software).
+- **day-types/01-05** — All Phase 1 flowcharts updated: added "iPads with parent" node, "Parent gives iPads" after floor verification, "Parent collects iPads" at screens-off. Removed morning "screens available" from Saturday/Sunday/Weekday Off Phase 1 flowcharts (no morning screen time). Updated "Two Phases" headers and "what's different" text.
+- **kid-presentation** — Step 1 explains iPad holding to boys. Step 2 notes iPads returned to boys.
+
+**Open discussion item:** Aaron prefers physical gating (simpler, no software to manage). Denise may prefer parental controls software. Open for discussion — documented as open item #8.
+
 ### Changed — Timeline Extended: Two Baseline Weeks Before Autonomy
 
 Phase 1 (Baseline) extended from one week to two. The boys get an extra week of parent-enforced structure before autonomy is tested.

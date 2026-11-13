@@ -6,7 +6,7 @@
 
 ## Two Phases
 
-**Phase 1 — Baseline (Nov 13-20 and Nov 27-Dec 4):** Parent enforces 10am transition. Parent checks each weekly chore before screens. Parent enforces evening transitions.
+**Phase 1 — Baseline (Nov 13-20 and Nov 27-Dec 4):** iPads physically held by parent from wake-up. No morning screen time. Parent checks chores before handing over iPads. Parent enforces evening transitions.
 
 **Phase 2 — Trial (Dec 11+):** Boys self-manage 10am transition and weekly chores. Parent steers on failure. Evening transitions self-managed and scored.
 
@@ -16,8 +16,8 @@
 
 ```mermaid
 flowchart TD
-    A["🛏️ Wake up"] --> B["📱 Screens available"]
-    B --> C["🚫 Parent enforces screens off 10:00am<br/>get dressed, eat, ready for day"]
+    A["🛏️ Wake up"] --> IP["📱 iPads with parent<br/>no morning screens"]
+    IP --> C["🚫 10:00am<br/>get dressed, eat, ready for day"]
     C --> D["🧺 Parent checks weekly chores"]
     D --> D1["👕 Laundry<br/>wash, dry, put away"]
     D --> D2["🧹 Vacuum<br/>downstairs + upstairs"]
@@ -25,23 +25,24 @@ flowchart TD
     D1 --> E{"Parent verifies<br/>all chores done?"}
     D2 --> E
     D3 --> E
-    E -->|Yes| F["🎮 Screens available<br/>rest of day is yours"]
-    E -->|No| G["⚠️ Finish chores<br/>then screens"]
-    G --> F
+    E -->|Yes| DG["📱 Parent gives iPads"]
+    E -->|No| G["⚠️ Finish chores<br/>then iPads"]
+    G --> DG
+    DG --> F["🎮 Screens available<br/>rest of day is yours"]
     F --> H["🍽️ Dinner"]
     H --> J["🧹 Dishes<br/>both boys, together"]
     J --> K["🗑️ Garbage/recycling<br/>to garage — as needed"]
     K --> L["🎮 Free time"]
-    L --> M["🔇 Parent enforces screens off<br/>TBD ~9:30pm — ALL screens"]
+    L --> M["📱 Parent collects iPads<br/>TBD ~9:30pm — ALL screens"]
     M --> N["🛏️ Bedtime<br/>TBD ~10:00pm"]
 
     style C fill:#e74c3c
-    style F fill:#7bc950
+    style DG fill:#7bc950
     style M fill:#f39c12
     style N fill:#95a5a6
 ```
 
-**Phase 1 — what's different:** Parent enforces the 10am transition. Parent verifies each weekly chore is done before screens open. Parent enforces screens-off and bedtime.
+**Phase 1 — what's different:** iPads held by parent from wake-up — no morning screen time. 10am transition is just getting ready (no screens to turn off). Parent hands over iPads after weekly chores verified, collects them at screens-off time.
 
 ---
 

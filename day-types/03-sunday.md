@@ -6,7 +6,7 @@
 
 ## Two Phases
 
-**Phase 1 — Baseline (Nov 13-20 and Nov 27-Dec 4):** Parent enforces 10am transition. Parent checks each spot check item before screens. Parent enforces school-night evening.
+**Phase 1 — Baseline (Nov 13-20 and Nov 27-Dec 4):** iPads physically held by parent from wake-up. No morning screen time. Parent checks spot check before handing over iPads. Parent enforces school-night evening.
 
 **Phase 2 — Trial (Dec 11+):** Boys self-manage 10am transition and spot check. Parent steers on failure. Evening transitions self-managed and scored.
 
@@ -16,8 +16,8 @@
 
 ```mermaid
 flowchart TD
-    A["🛏️ Wake up"] --> B["📱 Screens available"]
-    B --> C["🚫 Parent enforces screens off 10:00am<br/>get dressed, eat, ready for day"]
+    A["🛏️ Wake up"] --> IP["📱 iPads with parent<br/>no morning screens"]
+    IP --> C["🚫 10:00am<br/>get dressed, eat, ready for day"]
     C --> D["✅ Parent checks spot check"]
     D --> D1["🛏️ Room tidy"]
     D --> D2["🛏️ Bed made"]
@@ -27,24 +27,25 @@ flowchart TD
     D2 --> E
     D3 --> E
     D4 --> E
-    E -->|Yes| F["🎮 Screens available<br/>day is yours"]
-    E -->|No| G["⚠️ Finish spot check<br/>then screens"]
-    G --> F
+    E -->|Yes| DG["📱 Parent gives iPads"]
+    E -->|No| G["⚠️ Finish spot check<br/>then iPads"]
+    G --> DG
+    DG --> F["🎮 Screens available<br/>day is yours"]
     F --> H["🍽️ Dinner"]
     H --> J["🧹 Dishes<br/>both boys, together"]
     J --> K["🗑️ Garbage/recycling<br/>to garage — as needed"]
     K --> L["🎮 Free time"]
-    L --> M["🔇 Parent enforces screens off<br/>9:00pm — ALL screens"]
+    L --> M["📱 Parent collects iPads<br/>9:00pm — ALL screens"]
     M --> N["🌙 Wind down<br/>9:00-9:30pm screen-free"]
     N --> O["🛏️ Bedtime<br/>9:30pm — school night"]
 
     style C fill:#e74c3c
-    style F fill:#7bc950
+    style DG fill:#7bc950
     style M fill:#e74c3c
     style O fill:#95a5a6
 ```
 
-**Phase 1 — what's different:** Parent enforces the 10am transition. Parent verifies each spot check item before screens open. Parent enforces 9pm screens-off and bedtime.
+**Phase 1 — what's different:** iPads held by parent from wake-up — no morning screen time. 10am transition is just getting ready. Parent hands over iPads after spot check verified, collects them at 9pm.
 
 ---
 

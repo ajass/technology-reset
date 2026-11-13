@@ -16,6 +16,7 @@ Parents pre-check each floor item before screens open. The boys do not self-mana
 - Parent checks homework: "Did you finish? Show me." → then screens
 - Parent checks chores: "Is your laundry done? Did you vacuum?" → then screens
 - Parent enforces all transitions (10am, 9pm screens off, bedtime)
+- **iPads physically held by parent until floor is verified.** No morning screen time — iPads are with the parent from wake-up. Parent hands over the iPad after the floor is checked. Parent collects the iPad at screens-off time.
 - Tracker marks collected daily
 
 ### Phase 2 — Trial (Dec 11 - Jan 10): Autonomy with Steering
@@ -33,6 +34,7 @@ The floor is established. Boys self-manage their free time. Parents step back fr
 |---|---|---|
 | Floor check | Parent pre-checks before screens | Boy self-manages, parent steers on failure |
 | Screen access | Parent grants after floor verified | Self-granted within the floor |
+| Device gating | iPads physically held by parent | iPads available — self-managed |
 | Parent role | Enforcer | Observer / steerer |
 | If floor unmet | Screens stay closed until done | Redirect + log, screens resume after |
 
@@ -44,9 +46,10 @@ The floor is established. Boys self-manage their free time. Parents step back fr
 
 ### Phase 1 — Baseline
 
+- iPads held by parent — not available until homework is verified
 - Parent checks homework when boys arrive: "Any homework? Show me it's done."
-- Screens available only after parent verifies homework is done
-- Parent enforces dishes, garbage, screens off, bedtime
+- Parent hands over iPads after homework is verified
+- Parent enforces dishes, garbage, collects iPads at screens-off time, bedtime
 - Parent initiates pass down conversation when Aaron gets home from work
 
 ### Phase 2 — Trial
@@ -72,10 +75,11 @@ The floor is established. Boys self-manage their free time. Parents step back fr
 
 ### Phase 1 — Baseline
 
-- Parent enforces 10am screens off
-- Parent checks each weekly chore before screens resume: "Show me your laundry. Did you vacuum? Is the bathroom done?"
-- Screens available only after parent verifies all weekly chores complete
-- Parent enforces all evening rules
+- iPads held by parent from wake-up — no morning screen time
+- 10am: get dressed, eat, ready for the day (no screens to turn off — iPads already with parent)
+- Parent checks each weekly chore: "Show me your laundry. Did you vacuum? Is the bathroom done?"
+- Parent hands over iPads after all weekly chores verified
+- Parent collects iPads at screens-off time, enforces bedtime
 
 ### Phase 2 — Trial
 
@@ -111,10 +115,11 @@ The floor is established. Boys self-manage their free time. Parents step back fr
 
 ### Phase 1 — Baseline
 
-- Parent enforces 10am screens off
-- Parent checks each spot check item before screens resume: "Is your room tidy? Bed made? Stuffies picked up? Laundry put away?"
-- Screens available only after parent verifies spot check complete
-- Parent enforces school-night evening (9pm screens off, 9:30pm bedtime)
+- iPads held by parent from wake-up — no morning screen time
+- 10am: get dressed, eat, ready for the day (no screens to turn off — iPads already with parent)
+- Parent checks each spot check item: "Is your room tidy? Bed made? Stuffies picked up? Laundry put away?"
+- Parent hands over iPads after spot check verified
+- Parent collects iPads at 9pm screens-off, enforces 9:30pm bedtime
 
 ### Phase 2 — Trial
 
@@ -150,9 +155,10 @@ The floor is established. Boys self-manage their free time. Parents step back fr
 
 ### Phase 1 — Baseline
 
+- iPads held by parent — not available until homework is verified
 - Parent checks homework when boys get home: "Any homework? Show me it's done."
-- Screens available only after parent verifies homework is done
-- Parent enforces dishes, garbage, 9pm screens off, bedtime
+- Parent hands over iPads after homework is verified
+- Parent enforces dishes, garbage, collects iPads at 9pm screens off, bedtime
 - Parent actively monitors the 9pm transition
 
 ### Phase 2 — Trial
@@ -183,11 +189,12 @@ The floor is established. Boys self-manage their free time. Parents step back fr
 
 ### Phase 1 — Baseline
 
-- Denise enforces 10am screens off
-- Denise verifies the full floor checklist before screens resume: "Are you dressed? Did you eat? Are your dishes cleaned up? Is your room picked up? Common areas? Homework?"
-- Screens available only after Denise verifies floor is met
+- iPads held by parent from wake-up — no morning screen time
+- 10am: get dressed, eat breakfast (Denise checks — no screens to turn off)
+- Denise verifies the full floor checklist: "Are you dressed? Did you eat? Are your dishes cleaned up? Is your room picked up? Common areas? Homework?"
+- Denise hands over iPads after floor checklist verified
 - Denise monitors throughout the day (working from home, intermittent checks)
-- Aaron verifies floor when he gets home (~5pm)
+- Aaron verifies floor when he gets home (~5pm), collects iPads at screens-off time
 
 ### Phase 2 — Trial
 
@@ -255,6 +262,7 @@ The floor is established. Boys self-manage their free time. Parents step back fr
 - They get more say in how they spend free time, within the floor
 - We shift from "enforcing screen limits" to "checking in on how things are going"
 - Parents stop pre-checking the floor before screens — boys self-manage
+- iPads no longer physically held by parent — boys have access and self-manage
 - If floor unmet while on screens: redirect (Phase 2) instead of gate (Phase 1)
 
 ---
@@ -262,12 +270,12 @@ The floor is established. Boys self-manage their free time. Parents step back fr
 ## Consequences
 
 **In the moment:**
-- Phase 1: If floor isn't met, screens don't open. Parent keeps the gate closed until it's done.
+- Phase 1: If floor isn't met, iPads stay with the parent. The devices are physically unavailable until the floor is done and verified.
 - Phase 2: If on screens and the floor isn't met, we redirect. Get it done, then screens are back. Comply (even grudgingly) = Yellow on the tracker. Refuse = Red.
 
 **Pattern (3+ Reds in a week — Phase 2 only):**
 - We sit down with the tracker data. The data shows this isn't working yet.
-- Structural rollback to Phase 1: Aaron or Denise verifies homework and chores before screens open. For 2 weeks.
+- Structural rollback to Phase 1: Aaron or Denise verifies homework and chores before screens open. iPads physically held by parent again. For 2 weeks.
 - After 2 weeks, we re-test autonomy (return to Phase 2).
 
 **There's always a path back to autonomy.** Show us you can handle the structure, and the freedom comes back.
@@ -292,3 +300,4 @@ The floor is established. Boys self-manage their free time. Parents step back fr
 5. **Game evaluation criteria** — what makes a game approved or denied?
 6. **Garbage/recycling rotation** — TBD with Denise. Who starts first?
 7. **Bathroom cleaning rotation** — TBD with Denise. What schedule have they worked out?
+8. **Physical iPad gating vs. parental controls** — Aaron prefers physically holding iPads until floor is verified (simpler, no software to manage). Denise may prefer parental controls software to achieve the same gating. Open for discussion.

@@ -22,6 +22,7 @@ This is the core of the plan. The floor (homework, chores, family participation)
 - Parent checks homework before screens: "Did you finish? Show me."
 - Parent checks chores before screens: "Is your laundry done? Did you vacuum?"
 - Parent enforces all transitions (10am, 9pm screens off, bedtime)
+- **iPads physically held by parent until floor is verified.** Parent hands over the iPad after homework/chores/spot check is done and checked. Parent collects the iPad at screens-off time. No software parental controls needed — the devices are simply not available until the floor is met.
 - Tracker data collected daily — Green/Yellow/Red on four categories
 
 **Purpose:** Teach the floor, collect baseline data, and assess readiness. Are they close to meeting the floor on their own? Can they handle it without much steering? Two weeks of baseline data answers that question before autonomy is granted.
@@ -56,6 +57,7 @@ The floor itself doesn't change. These are non-negotiable in Phase 1 and Phase 2
 |---|---|---|
 | **Who checks the floor** | Parent pre-checks before screens | Boy self-manages, parent steers on failure |
 | **Screen access** | Granted by parent after floor verified | Self-granted — autonomy within the floor |
+| **Device gating** | iPads physically held by parent until floor verified | iPads available — self-managed within floor |
 | **Parent role** | Enforcer — verifies and gates | Observer — redirects when floor unmet |
 | **Tracker purpose** | Establish baseline behavior | Test autonomy, drive rollback decisions |
 | **Duration** | 2 weeks (Nov 13-20, Nov 27-Dec 4) | 30 days (Dec 11 - Jan 10) |
@@ -72,6 +74,7 @@ The floor itself doesn't change. These are non-negotiable in Phase 1 and Phase 2
 - **Weekly chores on Saturday.** Sunday is a spot check.
 - **Friday and Saturday are their own days.** School days are Monday-Thursday.
 - **Impromptu responsibilities every day.** Help when asked, no pushback.
+- **Physical iPad gating in Phase 1.** iPads held by parent until floor is verified. No morning screen time until the floor is met. Denise may prefer parental controls software instead — open for discussion.
 
 ---
 

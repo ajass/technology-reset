@@ -7,7 +7,7 @@
 
 ## Two Phases
 
-**Phase 1 — Baseline (Nov 13-20 and Nov 27-Dec 4):** Parent checks homework before screens. Parent enforces all transitions. No autonomy yet.
+**Phase 1 — Baseline (Nov 13-20 and Nov 27-Dec 4):** iPads physically held by parent until homework verified. Parent enforces all transitions. No autonomy yet.
 
 **Phase 2 — Trial (Dec 11+):** Boys self-manage homework and transitions. Parent steers on failure. Pass down stays parent-led.
 
@@ -18,26 +18,29 @@
 ```mermaid
 flowchart TD
     A["🏫 Come home<br/>after school"] --> B["🏠 Home<br/>~4:00pm"]
-    B --> C["📚 Parent checks homework<br/>if any, done first"]
+    B --> IP["📱 iPads with parent<br/>not available yet"]
+    IP --> C["📚 Parent checks homework<br/>if any, done first"]
     C --> CD{"Parent verifies<br/>homework done?"}
-    CD -->|Yes| D["🎮 Screens available"]
-    CD -->|No| CW["⚠️ Finish homework<br/>then screens"]
-    CW --> D
+    CD -->|Yes| DG["📱 Parent gives iPads"]
+    CD -->|No| CW["⚠️ Finish homework<br/>then iPads"]
+    CW --> DG
+    DG --> D["🎮 Free time<br/>screens available"]
     D --> PD["📋 Friday pass down<br/>when I get home from work"]
     PD --> E["🍽️ Dinner"]
     E --> G["🧹 Dishes<br/>both boys, together"]
     G --> H["🗑️ Garbage/recycling<br/>to garage — as needed"]
     H --> I["🎮 Free time"]
-    I --> J["🔇 Parent enforces screens off<br/>TBD ~9:30pm — ALL screens"]
+    I --> J["📱 Parent collects iPads<br/>TBD ~9:30pm — ALL screens"]
     J --> K["🌙 Wind down<br/>screen-free until bedtime"]
     K --> L["🛏️ Bedtime<br/>TBD ~10:00pm"]
 
     style C fill:#e74c3c
+    style DG fill:#7bc950
     style J fill:#f39c12
     style L fill:#95a5a6
 ```
 
-**Phase 1 — what's different:** Parent checks homework before screens open. Parent enforces screens-off and bedtime transitions. No self-management.
+**Phase 1 — what's different:** iPads held by parent — not available until homework is verified. Parent hands over iPads after homework check, collects them at screens-off time. No self-management.
 
 ---
 

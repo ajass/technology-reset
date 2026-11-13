@@ -6,7 +6,7 @@
 
 ## Two Phases
 
-**Phase 1 — Baseline (Nov 13-20 and Nov 27-Dec 4):** Denise enforces 10am transition and verifies the full floor checklist before screens. Aaron verifies floor when he gets home. No autonomy.
+**Phase 1 — Baseline (Nov 13-20 and Nov 27-Dec 4):** iPads physically held by parent from wake-up. Denise verifies floor checklist before handing over iPads. Aaron verifies when home. No autonomy.
 
 **Phase 2 — Trial (Dec 11+):** Denise still checks the 10am transition (she's home). After 10am, boys self-manage the floor checklist. Aaron does a light end-of-day check. Parent steers on failure.
 
@@ -16,8 +16,8 @@
 
 ```mermaid
 flowchart TD
-    A["🛏️ Wake up"] --> B["📱 Screens available"]
-    B --> C["🚫 Denise enforces screens off 10:00am<br/>get dressed, eat breakfast"]
+    A["🛏️ Wake up"] --> IP["📱 iPads with parent<br/>no morning screens"]
+    IP --> C["🚫 10:00am<br/>get dressed, eat breakfast<br/>Denise checks"]
     C --> D["📋 Denise verifies floor checklist"]
     D --> D1["✅ Dressed"]
     D --> D2["✅ Breakfast & lunch eaten"]
@@ -31,24 +31,25 @@ flowchart TD
     D4 --> E
     D5 --> E
     D6 --> E
-    E -->|Yes| F["🎮 Screens available<br/>Denise monitoring"]
-    E -->|No| G["⚠️ Finish floor items<br/>then screens"]
-    G --> F
+    E -->|Yes| DG["📱 Denise gives iPads"]
+    E -->|No| G["⚠️ Finish floor items<br/>then iPads"]
+    G --> DG
+    DG --> F["🎮 Screens available<br/>Denise monitoring"]
     F --> I["🏠 Aaron gets home<br/>~5:00pm — verifies floor"]
     I --> J["🍽️ Dinner"]
-    J --> L["🧹 Dishes<br/>both boys, together"]
-    L --> M["🗑️ Garbage/recycling<br/>to garage — as needed"]
-    M --> N["🎮 Free time"]
-    N --> O["🔇 Parent enforces screens off<br/>9:00pm — ALL screens"]
-    O --> P["🛏️ Bedtime<br/>9:30pm"]
+    J --> K["🧹 Dishes<br/>both boys, together"]
+    K --> L["🗑️ Garbage/recycling<br/>to garage — as needed"]
+    L --> M["🎮 Free time"]
+    M --> N["📱 Parent collects iPads<br/>9:00pm — ALL screens"]
+    N --> O["🛏️ Bedtime<br/>9:30pm"]
 
     style C fill:#e74c3c
-    style F fill:#7bc950
-    style O fill:#e74c3c
-    style P fill:#95a5a6
+    style DG fill:#7bc950
+    style N fill:#e74c3c
+    style O fill:#95a5a6
 ```
 
-**Phase 1 — what's different:** Denise verifies the full floor checklist before screens open. Denise monitors throughout the day. Aaron does a full floor verification when he gets home. No self-management.
+**Phase 1 — what's different:** iPads held by parent from wake-up — no morning screen time. Denise hands over iPads after floor checklist verified. Aaron collects iPads at screens-off time.
 
 ---
 
