@@ -48,6 +48,23 @@ The floor is established. Boys self-manage their free time. Parents step back fr
 
 ---
 
+## What Counts as Homework
+
+Homework is anything you're required to do at home that's educational or practice in nature. The due date doesn't matter — if it's assigned, do it before screens.
+
+- **School assignments** — including long-term projects not due for a week or more
+- **Instrument practice** — if you take music lessons, practice is homework
+- **Studying for tests** — when a test is scheduled, studying is homework
+- **Online school work** — Google Classroom, IXL, any digital assignments
+- **Other required work** — if it's required and educational or practice in nature (religious ed, Scouts, tutoring, etc.), it's homework. Left open as new activities come up.
+
+Not homework:
+- Chores — those are separate floor items
+- Reading — reading happens after screens off, before lights out. Not a screen gate.
+- Optional/enrichment activities you choose to do on your own
+
+---
+
 ## 01 — Friday (when boys arrive — evening with Aaron and Denise)
 
 *Every other week they are with us Friday morning. That's just a regular school day — see [04 — School Day](day-types/04-school-day.md). The other week they come home to us after school. The Friday evening is the same either way.*

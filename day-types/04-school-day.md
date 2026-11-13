@@ -72,7 +72,7 @@ flowchart TD
 
 ## Before Screens (both phases)
 
-- [ ] Homework first. If you have homework, it gets done before screens.
+- [ ] Homework first. If you have homework, it gets done before screens. (See [What Counts as Homework](../floor-expectations.md#what-counts-as-homework) — includes school assignments even if not due yet, instrument practice, studying for tests, online school work, and other required educational work.)
 - [ ] No recreational screens before school.
 
 ## Rules (both phases)

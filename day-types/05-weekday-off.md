@@ -106,7 +106,7 @@ flowchart TD
 - [ ] Your meal dishes cleaned up (rinsed, in dishwasher)
 - [ ] Room picked up (not wrecked)
 - [ ] Common areas picked up (no stuff left all over the house)
-- [ ] Any homework done (homework-first rule still applies)
+- [ ] Any homework done (homework-first rule still applies — see [What Counts as Homework](../floor-expectations.md#what-counts-as-homework))
 
 ## Rules (both phases)
 

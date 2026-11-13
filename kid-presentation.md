@@ -34,8 +34,9 @@ Bedtime screen rules stay the same. No recreational screens before school. YouTu
 
 Here are the specific daily rules, and we're putting them on the fridge so everyone can see them:
 
+- Homework first — if you have homework, it gets done before screens. Homework means anything you're required to do at home that's educational or practice. That includes school assignments (even if they're not due for a week or more),, instrument practice if you take lessons, studying when a test is coming up, online school work like Google Classroom or IXL, and any other required educational stuff. Chores are not homework — those are separate. Reading is not homework — that happens after screens off, before lights out.
 - Bedtime is 9:30pm, same as your dad's house
-- Screens off 30 minutes before bedtime, so at 9:00pm — and that means ALL screens. Phones, iPads, TV, everything. Even reels.
+- Screens off 30 minutes before bedtime, so at 9:00pm — and that means ALL screens. Phones, iPads, TV, everything. Even reels. On Friday and Saturday nights, screens off at 9:30pm and bedtime is 10:00pm.
 - Garbage and recycling bins go out to the garage before screens. You alternate — Sean one day, Liam the next.
 - When we ask you to help with something that's not on the schedule — like holiday decorations or coming to Costco — you help. No pushback. That's part of being in this family.
 

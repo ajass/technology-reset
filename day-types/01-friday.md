@@ -73,6 +73,7 @@ flowchart TD
 
 | Rule | Detail |
 |------|--------|
+| Before screens | Homework first (see [What Counts as Homework](../floor-expectations.md#what-counts-as-homework)) |
 | Friday pass down | Level-set conversation when Aaron gets home from work. How was your week? What's coming up? |
 | Garbage/recycling | Bins to garage — done as needed (alternates daily). Part of the floor, not a screen gate. |
 | Dishes | After dinner, both boys, together |

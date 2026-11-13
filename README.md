@@ -67,7 +67,7 @@ The floor itself doesn't change. These are non-negotiable in Phase 1 and Phase 2
 
 ## Key Decisions
 
-- **Homework first, not time-based.** Responsibilities before screens, no clock to fight over.
+- **Homework first, not time-based.** Responsibilities before screens, no clock to fight over. **What counts as homework:** school assignments (even if not due yet),, instrument practice, studying for tests (when scheduled),, online school work, and any other required educational/practice work. Not homework: chores (separate) or reading (after screens off, before lights out).
 - **Garbage and recycling: part of the floor.** Done after dishes (week) / as needed (other days). Not a screen gate.
 - **Screens off = ALL screens** (including reels). No co-watching exceptions. Weekdays: screens off at 9pm, in bed by 9:30pm. Friday and Saturday: screens off at 9:30pm, in bed by 10pm.
 - **Game-by-game evaluation.** Not platform bans — we approve individual titles.

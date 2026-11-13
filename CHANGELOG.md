@@ -4,6 +4,16 @@ All notable changes to the technology reset plan, tracked by date.
 
 ## 2026-11-13 (Session 3)
 
+### Added — What Counts as Homework
+
+Defined "homework" explicitly so boys can't argue loopholes ("not due yet," "just practice"). Definition: anything you're required to do at home that's educational or practice in nature. The due date doesn't matter.
+
+Includes: school assignments (even long-term not due yet),, instrument practice, studying for tests (when scheduled),, online school work (Google Classroom, IXL),, other required educational/practice work (left open for future).
+
+Not homework: chores (separate floor item),, reading (after screens off, before lights out),, optional/enrichment activities.
+
+Added to: floor-expectations (new section),, README (Key Decisions),, fridge-sheet (new callout section),, kid-presentation (fridge rules list),, day-types 01/04/05 (Before Screens references).
+
 ### Changed — Weekend Morning Screen Time (8am-10am)
 
 Saturday and Sunday: boys get screens 8am-10am as free time. At 10am sharp, parent collects iPads (Phase 1) or boys self-manage the transition (Phase 2). Floor items done before screens come back. They can do chores earlier than 10am if they want, but the expectation is they get moving at 10am.
