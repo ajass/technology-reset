@@ -10,7 +10,7 @@ Sean and Liam are 11-12 years old. We've been managing their screen time closely
 
 1. **Build the floor first, then test autonomy.** Responsibilities (homework, chores, family participation) are the floor — they happen regardless. Screens are the discretionary time that comes after. We put the floor in place before we test screen autonomy, not at the same time.
 
-2. **30-day trial with data.** We track four categories daily (Homework, Chores, Bedtime, Screen Transition) using a shared Google Sheet. Baseline data first, then trial data. At 30 days, the data does the talking — not gut feeling.
+2. **Floor first, then test autonomy with data.** We put the floor in place and collect baseline data to see if they're close to meeting it on their own or can handle it without much steering. Then we run a 30-day trial, tracking four categories daily (Homework, Chores, Bedtime, Screen Transition) in a shared Google Sheet. At 30 days, the data does the talking — not gut feeling.
 
 3. **Steer, log, and gate autonomy on data.** When they're on screens and the floor isn't met, we redirect them to the unfinished floor activity (homework, chores, etc.) and log the behavior in the tracker sheet (Green/Yellow/Red). If the data shows too many Yellows or Reds in a week, autonomy isn't granted — we roll back to parent-checked structure for 2 weeks, then re-test. Always a path back to freedom.
 
