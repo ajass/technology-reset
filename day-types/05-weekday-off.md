@@ -6,7 +6,7 @@
 
 ## Two Phases
 
-**Phase 1 — Baseline (Nov 13-20 and Nov 27-Dec 4):** iPads physically held by parent from wake-up. Denise verifies floor checklist before handing over iPads. Aaron verifies when home. No autonomy.
+**Phase 1 — Baseline (Nov 13-20 and Nov 27-Dec 4):** iPads physically held by parent from wake-up. Denise verifies floor checklist when available — boys may wait while she finishes meetings. No autonomy.
 
 **Phase 2 — Trial (Dec 11+):** Denise still checks the 10am transition (she's home). After 10am, boys self-manage the floor checklist. Aaron does a light end-of-day check. Parent steers on failure.
 
@@ -17,8 +17,9 @@
 ```mermaid
 flowchart TD
     A["🛏️ Wake up"] --> IP["📱 iPads with parent<br/>no morning screens"]
-    IP --> C["🚫 10:00am<br/>get dressed, eat breakfast<br/>Denise checks"]
-    C --> D["📋 Denise verifies floor checklist"]
+    IP --> C["🚫 10:00am<br/>get dressed, eat breakfast<br/>Denise checks when available"]
+    C --> W["⏳ Boys do floor items<br/>Denise in meetings — wait"]
+    W --> D["📋 Denise verifies floor checklist<br/>when free from meetings"]
     D --> D1["✅ Dressed"]
     D --> D2["✅ Breakfast & lunch eaten"]
     D --> D3["✅ Meal dishes cleaned up"]
@@ -44,12 +45,13 @@ flowchart TD
     N --> O["🛏️ Bedtime<br/>9:30pm"]
 
     style C fill:#e74c3c
+    style W fill:#f39c12
     style DG fill:#7bc950
     style N fill:#e74c3c
     style O fill:#95a5a6
 ```
 
-**Phase 1 — what's different:** iPads held by parent from wake-up — no morning screen time. Denise hands over iPads after floor checklist verified. Aaron collects iPads at screens-off time.
+**Phase 1 — what's different:** iPads held by parent from wake-up — no morning screen time. Boys do floor checklist items (get dressed, eat, clean up, pick up room) while Denise works. When Denise is free from meetings, she verifies the floor checklist and hands over iPads. Aaron collects iPads at screens-off time. If boys interrupt Denise's meetings to nag for iPads, that's pushback — Yellow on the tracker.
 
 ---
 
@@ -123,3 +125,7 @@ flowchart TD
 The boys manage their own time between 10am and evening. Screens are available — that's the autonomy piece. The floor is what needs to be true before screens resume after the 10am get-dressed transition. How they get there is their call. Garbage is done as needed — part of the floor, not a screen gate. Sometimes grandparents may take them for the day.
 
 If the floor isn't met, it's a redirect (not punishment) — get it done, then screens are back. If the pattern repeats (3+ Reds in a week), structural rollback to Phase 1.
+
+---
+
+> **Note for Denise:** During Phase 1, the iPad hand-off happens when you're available — not at 10am sharp. If you're in a meeting at 10am or after, the boys do their floor items (get dressed, eat, clean up) and wait. The iPads are with you, so there's nothing to negotiate. If they interrupt your meeting to ask for iPads, that's pushback — log it as a Yellow. The wait time is baseline data: it tells us whether they can self-regulate, which is exactly what we're assessing. After two weeks, the iPads are theirs to manage.

@@ -4,6 +4,16 @@ All notable changes to the technology reset plan, tracked by date.
 
 ## 2026-11-13 (Session 3)
 
+### Changed — Phase 1 Floor Check Happens When Parent Is Available
+
+Updated school day and weekday off Phase 1 workflows to reflect reality: Denise works from home and may be in meetings when boys arrive or when floor needs checking. The iPad hand-off happens when the parent is free, not on demand. Boys wait — the wait is intentional baseline data on impulse control.
+
+Updated across:
+- **floor-expectations** — Phase 1 overview now includes "when available" principle and a detailed note to Denise explaining why parent enforcement (not parental controls software) matters for the first two weeks.
+- **day-types/04-school-day** — Phase 1 flowchart adds "wait" node (boys do homework while Denise finishes meetings). Key transitions updated. Denise note added.
+- **day-types/05-weekday-off** — Phase 1 flowchart adds "wait" node (boys do floor items while Denise works). Denise note added.
+- **kid-presentation** — Step 1 now tells boys not to interrupt Denise's meetings, do homework while waiting, iPad comes when she's free.
+
 ### Added — Physical iPad Gating in Phase 1
 
 During Phase 1 (Baseline), iPads are physically held by parents until the floor is verified. No morning screen time — iPads are with the parent from wake-up. Parent hands over the iPad after homework/chores/spot check is done and checked. Parent collects the iPad at screens-off time. No software parental controls needed.

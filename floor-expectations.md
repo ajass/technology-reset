@@ -17,7 +17,15 @@ Parents pre-check each floor item before screens open. The boys do not self-mana
 - Parent checks chores: "Is your laundry done? Did you vacuum?" → then screens
 - Parent enforces all transitions (10am, 9pm screens off, bedtime)
 - **iPads physically held by parent until floor is verified.** No morning screen time — iPads are with the parent from wake-up. Parent hands over the iPad after the floor is checked. Parent collects the iPad at screens-off time.
+- **The check happens when the parent is available, not on demand.** Denise works from home and may be in meetings when the boys get home from school. The iPads stay with her until she's free — the boys wait. This is intentional: the wait is part of the baseline data. If they can't wait without interrupting her work, that tells us about their impulse control.
 - Tracker marks collected daily
+
+> **Note for Denise — why this has to be parent-enforced for the first two weeks:**
+>
+> 1. **Physical gating is less work for you than parental controls.** Software means you manage unlock requests, timers, and "can you unlock it now?" pings during your meetings. Physical gating means the iPads are with you — the boys wait until you're free. No software to configure, no unlock requests to field mid-meeting.
+> 2. **The wait is data.** If the boys can't wait 30-60 minutes for an iPad without interrupting your work, that tells us something about their impulse control — which is exactly what we're assessing during baseline. Nagging during meetings is a tracker item (pushback), not just an annoyance.
+> 3. **The check happens when you're available, not at 4pm sharp.** Boys come home, iPads are with you, they do homework (or don't). When you're free from meetings — 4:30, 5:00, whenever — you check homework and hand over the iPads. If homework isn't done, they do it then. Less screen time while waiting is fine.
+> 4. **This is temporary.** After two weeks, the iPads are theirs to manage. The physical gating is Phase 1 only.
 
 ### Phase 2 — Trial (Dec 11 - Jan 10): Autonomy with Steering
 
@@ -156,8 +164,9 @@ The floor is established. Boys self-manage their free time. Parents step back fr
 ### Phase 1 — Baseline
 
 - iPads held by parent — not available until homework is verified
-- Parent checks homework when boys get home: "Any homework? Show me it's done."
-- Parent hands over iPads after homework is verified
+- Boys come home ~4pm. iPads are with Denise. They do homework (or wait) until Denise is free from meetings.
+- Denise checks homework when available: "Any homework? Show me it's done."
+- Denise hands over iPads after homework is verified
 - Parent enforces dishes, garbage, collects iPads at 9pm screens off, bedtime
 - Parent actively monitors the 9pm transition
 
@@ -190,8 +199,9 @@ The floor is established. Boys self-manage their free time. Parents step back fr
 ### Phase 1 — Baseline
 
 - iPads held by parent from wake-up — no morning screen time
-- 10am: get dressed, eat breakfast (Denise checks — no screens to turn off)
-- Denise verifies the full floor checklist: "Are you dressed? Did you eat? Are your dishes cleaned up? Is your room picked up? Common areas? Homework?"
+- 10am: get dressed, eat breakfast (Denise checks when available — no screens to turn off)
+- Boys do floor checklist items (dressed, eat, clean up, pick up room). iPads stay with Denise until she's free from meetings.
+- Denise verifies the full floor checklist when available: "Are you dressed? Did you eat? Are your dishes cleaned up? Is your room picked up? Common areas? Homework?"
 - Denise hands over iPads after floor checklist verified
 - Denise monitors throughout the day (working from home, intermittent checks)
 - Aaron verifies floor when he gets home (~5pm), collects iPads at screens-off time
