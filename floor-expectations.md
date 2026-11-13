@@ -16,7 +16,7 @@ Parents pre-check each floor item before screens open. The boys do not self-mana
 - Parent checks homework: "Did you finish? Show me." → then screens
 - Parent checks chores: "Is your laundry done? Did you vacuum?" → then screens
 - Parent enforces all transitions (10am, 9pm screens off, bedtime)
-- **iPads physically held by parent until floor is verified.** No morning screen time — iPads are with the parent from wake-up. Parent hands over the iPad after the floor is checked. Parent collects the iPad at screens-off time.
+- **iPads physically held by parent until floor is verified.** Weekday mornings (school days, weekday off): iPads with parent from wake-up — no morning screen time. Weekend mornings (Saturday, Sunday): screens available 8am-10am as free time; at 10am parent collects iPads. Parent hands over the iPad after the floor is checked. Parent collects the iPad at screens-off time.
 - **The check happens when the parent is available, not on demand.** Denise works from home and may be in meetings when the boys get home from school. The iPads stay with her until she's free — the boys wait. This is intentional: the wait is part of the baseline data. If they can't wait without interrupting her work, that tells us about their impulse control.
 - Tracker marks collected daily
 
