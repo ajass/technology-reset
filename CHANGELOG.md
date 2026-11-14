@@ -16,7 +16,7 @@ Added to: floor-expectations (new section),, README (Key Decisions),, fridge-she
 
 ### Changed — Weekend Morning Screen Time (8am-10am)
 
-Saturday and Sunday: boys get screens 8am-10am as free time. At 10am sharp, parent collects iPads (Phase 1) or boys self-manage the transition (Phase 2). Floor items done before screens come back. They can do chores earlier than 10am if they want, but the expectation is they get moving at 10am.
+Saturday, Sunday, and weekday off: boys get screens 8am-10am as free time. At 10am sharp, parent collects iPads (Phase 1) or boys self-manage transition (Phase 2). Floor items done before screens come back. They can do chores/floor items earlier than 10am if they want, but the expectation is they get moving at 10am.
 
 Updated across all documents: Saturday and Sunday Phase 1 and Phase 2 flowcharts, floor-expectations Phase 1 sections, fridge sheet (day cards now show "Free time 8am-10am"), kid presentation script, README Phase 1 description.
 

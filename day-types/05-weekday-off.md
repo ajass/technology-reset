@@ -6,7 +6,7 @@
 
 ## Two Phases
 
-**Phase 1 — Baseline (Nov 13-20 and Nov 27-Dec 4):** iPads physically held by parent from wake-up. Denise verifies floor checklist when available — boys may wait while she finishes meetings. No autonomy.
+**Phase 1 — Baseline (Nov 13-20 and Nov 27-Dec 4):** Screens available 8am-10am (free time). At 10am parent collects iPads — floor checklist done before iPads come back. Denise verifies when available. No autonomy.
 
 **Phase 2 — Trial (Dec 11+):** Denise still checks the 10am transition (she's home). After 10am, boys self-manage the floor checklist. Aaron does a light end-of-day check. Parent steers on failure.
 
@@ -16,8 +16,8 @@
 
 ```mermaid
 flowchart TD
-    A["🛏️ Wake up"] --> IP["📱 iPads with parent<br/>no morning screens"]
-    IP --> C["🚫 10:00am<br/>get dressed, eat breakfast<br/>Denise checks when available"]
+    A["🛏️ Wake up"] --> AM["📱 Screens available<br/>8:00am — free time"]
+    AM --> C["🚫 10:00am<br/>parent collects iPads<br/>get dressed, eat breakfast<br/>Denise checks when available"]
     C --> W["⏳ Boys do floor items<br/>Denise in meetings — wait"]
     W --> D["📋 Denise verifies floor checklist<br/>when free from meetings"]
     D --> D1["✅ Dressed"]
@@ -44,6 +44,7 @@ flowchart TD
     M --> N["📱 Parent collects iPads<br/>9:00pm — ALL screens"]
     N --> O["🛏️ Bedtime<br/>9:30pm"]
 
+    style AM fill:#7bc950
     style C fill:#e74c3c
     style W fill:#f39c12
     style DG fill:#7bc950
@@ -51,7 +52,7 @@ flowchart TD
     style O fill:#95a5a6
 ```
 
-**Phase 1 — what's different:** iPads held by parent from wake-up — no morning screen time. Boys do floor checklist items (get dressed, eat, clean up, pick up room) while Denise works. When Denise is free from meetings, she verifies the floor checklist and hands over iPads. Aaron collects iPads at screens-off time. If boys interrupt Denise's meetings to nag for iPads, that's pushback — Yellow on the tracker.
+**Phase 1 — what's different:** Screens available 8am-10am (free time). At 10am parent collects iPads — get dressed, eat, ready for the day. They can do floor checklist items earlier than 10am if they want, but the expectation is they get moving at 10am sharp. Boys do floor items while Denise works. When Denise is free from meetings, she verifies the floor checklist and hands over iPads. Aaron collects iPads at screens-off time. If boys interrupt Denise's meetings to nag for iPads, that's pushback — Yellow on the tracker.
 
 ---
 
@@ -59,7 +60,7 @@ flowchart TD
 
 ```mermaid
 flowchart TD
-    A["🛏️ Wake up"] --> B["📱 Screens available"]
+    A["🛏️ Wake up"] --> B["📱 Screens available<br/>8:00am — free time"]
     B --> C["🚫 Screens off 10:00am<br/>get dressed, eat breakfast<br/>Denise checks — one transition"]
     C --> D["📋 Floor checklist<br/>self-managed"]
     D --> D1["✅ Dressed"]

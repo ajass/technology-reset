@@ -16,7 +16,7 @@ Parents pre-check each floor item before screens open. The boys do not self-mana
 - Parent checks homework: "Did you finish? Show me." → then screens
 - Parent checks chores: "Is your laundry done? Did you vacuum?" → then screens
 - Parent enforces all transitions (10am, 9pm screens off, bedtime)
-- **iPads physically held by parent until floor is verified.** Weekday mornings (school days, weekday off): iPads with parent from wake-up — no morning screen time. Weekend mornings (Saturday, Sunday): screens available 8am-10am as free time; at 10am parent collects iPads. Parent hands over the iPad after the floor is checked. Parent collects the iPad at screens-off time.
+- **iPads physically held by parent until floor is verified.** School day mornings: iPads with parent from arrival — no morning screen time. Weekend mornings (Saturday, Sunday, weekday off): screens available 8am-10am as free time; at 10am parent collects iPads. Parent hands over the iPad after the floor is checked. Parent collects the iPad at screens-off time.
 - **The check happens when the parent is available, not on demand.** Denise works from home and may be in meetings when the boys get home from school. The iPads stay with her until she's free — the boys wait. This is intentional: the wait is part of the baseline data. If they can't wait without interrupting her work, that tells us about their impulse control.
 - Tracker marks collected daily
 
@@ -215,8 +215,8 @@ Not homework:
 
 ### Phase 1 — Baseline
 
-- iPads held by parent from wake-up — no morning screen time
-- 10am: get dressed, eat breakfast (Denise checks when available — no screens to turn off)
+- 8am-10am: morning free time — screens available (parent gives iPads at 8am)
+- 10am: parent collects iPads — get dressed, eat, ready for the day. They can do floor checklist items earlier if they want, but the expectation is they get moving at 10am sharp.
 - Boys do floor checklist items (dressed, eat, clean up, pick up room). iPads stay with Denise until she's free from meetings.
 - Denise verifies the full floor checklist when available: "Are you dressed? Did you eat? Are your dishes cleaned up? Is your room picked up? Common areas? Homework?"
 - Denise hands over iPads after floor checklist verified
