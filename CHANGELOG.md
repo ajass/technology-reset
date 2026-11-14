@@ -4,6 +4,12 @@ All notable changes to the technology reset plan, tracked by date.
 
 ## 2026-11-13 (Session 3)
 
+### Added — Impromptu Help on All Floor Checklists
+
+Added "Help with anything else we ask — as needed, as directed, no pushback" as the last item on every day type's before-screens checklist (both Phase 1 and Phase 2). Ensures the boys see the impromptu expectation every time they check the list, not just in the universal rules.
+
+Added to: all 5 day-type docs (checkbox lists and rules tables),, floor-expectations (all Before Screens sections),, fridge sheet (all 5 day cards).
+
 ### Added — What Counts as Homework
 
 Defined "homework" explicitly so boys can't argue loopholes ("not due yet," "just practice"). Definition: anything you're required to do at home that's educational or practice in nature. The due date doesn't matter.

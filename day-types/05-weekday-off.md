@@ -108,6 +108,7 @@ flowchart TD
 - [ ] Room picked up (not wrecked)
 - [ ] Common areas picked up (no stuff left all over the house)
 - [ ] Any homework done (homework-first rule still applies — see [What Counts as Homework](../floor-expectations.md#what-counts-as-homework))
+- [ ] Help with anything else we ask — as needed, as directed, no pushback
 
 ## Rules (both phases)
 

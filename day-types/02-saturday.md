@@ -85,6 +85,7 @@ flowchart TD
 - [ ] Laundry: wash, dry, and start putting away your own clothes
 - [ ] Vacuum: downstairs and upstairs
 - [ ] Clean bathroom (rotation TBD with Denise)
+- [ ] Help with anything else we ask — as needed, as directed, no pushback
 
 ## Rules (both phases)
 

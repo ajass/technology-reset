@@ -122,6 +122,7 @@ Not homework:
 - Laundry: wash, dry, and start putting away your own clothes
 - Vacuum: downstairs and upstairs
 - Clean bathroom (they already do this — rotation TBD with Denise)
+- Help with anything else we ask — as needed, as directed, no pushback.
 
 ### Evening Rules (both phases)
 
@@ -163,6 +164,7 @@ Not homework:
 - Bed made
 - Stuffies picked up
 - Clean laundry put away (best effort — if not fully folded, that's okay, but what's done needs to be put away)
+- Help with anything else we ask — as needed, as directed, no pushback.
 
 ### Evening Rules — School Night (both phases)
 
@@ -198,6 +200,7 @@ Not homework:
 
 - Homework first. If you have homework, it gets done before screens.
 - No recreational screens before school.
+- Help with anything else we ask — as needed, as directed, no pushback.
 
 ### Evening Rules (both phases)
 
@@ -243,6 +246,7 @@ Not homework:
 - Room picked up (not wrecked)
 - Common areas picked up (no stuff left all over the house)
 - Any homework done (homework-first rule still applies)
+- Help with anything else we ask — as needed, as directed, no pushback.
 
 ### Evening Rules (both phases)
 

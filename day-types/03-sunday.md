@@ -92,6 +92,7 @@ flowchart TD
 - [ ] Bed made
 - [ ] Stuffies picked up
 - [ ] Clean laundry put away (best effort — if not fully folded, that's okay, but what's done needs to be put away)
+- [ ] Help with anything else we ask — as needed, as directed, no pushback
 
 ## Rules (both phases)
 

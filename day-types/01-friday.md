@@ -77,6 +77,7 @@ flowchart TD
 | Friday pass down | Level-set conversation when Aaron gets home from work. How was your week? What's coming up? |
 | Garbage/recycling | Bins to garage — done as needed (alternates daily). Part of the floor, not a screen gate. |
 | Dishes | After dinner, both boys, together |
+| Impromptu | Help with anything else we ask — as needed, as directed, no pushback. |
 | Screens off | TBD ~9:30pm — ALL screens, no exceptions |
 | Bedtime | TBD ~10:00pm (same as Saturday) |
 
