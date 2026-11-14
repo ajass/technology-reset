@@ -89,8 +89,8 @@ Not homework:
 
 - Dishes after dinner (both boys, together)
 - Garbage and recycling bins taken out to garage — done as needed (alternates daily: Sean / Liam — rotation TBD with Denise)
-- Screens off at [TBD — proposed 9:30pm, same as Saturday] — **ALL screens** (gaming, YouTube, TV, reels, phones, iPads). No exceptions.
-- Bedtime at [TBD — proposed 10:00pm, same as Saturday]
+- Screens off at 9:30pm — **ALL screens** (gaming, YouTube, TV, reels, phones, iPads). No exceptions.
+- Bedtime at 10:00pm
 
 > Friday is the arrival day. Every other week, Friday morning is a regular school day (see day-types/04-school-day.md). The other week they come home to us after school. Either way, the pass down happens when Aaron gets home from work, then the evening schedule applies (same as Saturday). Garbage is part of the floor — it gets done, but not a screen gate.
 
@@ -128,8 +128,8 @@ Not homework:
 
 - Dishes after dinner (both boys, together)
 - Garbage and recycling bins taken out to garage — done as needed (alternates daily)
-- Screens off at [TBD — proposed 9:30pm, +30 min from school night] — **ALL screens**, no exceptions.
-- Bedtime at [TBD — proposed 10:00pm, +30 min from school night]
+- Screens off at 9:30pm — **ALL screens**, no exceptions.
+- Bedtime at 10:00pm
 
 ### Impromptu Responsibilities (every day, both phases)
 
@@ -324,7 +324,7 @@ Not homework:
 
 ## Open Items (to resolve with Denise)
 
-1. **Weekend bedtime** — Aaron at +30 min max (10:00pm). Denise wants later. Try +30 and review Monday morning data?
+1. **Weekend bedtime** — RESOLVED. Friday and Saturday: screens off at 9:30pm, lights out at 10:00pm. Weekdays: screens off at 9pm, lights out at 9:30pm.
 2. **Reels before bed** — 9pm rule includes reels. Denise's reel time with the boys needs to move earlier or end. Her routine, her decision.
 3. **Family dinner frequency** — how many nights mandatory? Which nights flexible for friend plans?
 4. **Physical activity** — floor item (tracked) or just encouraged?

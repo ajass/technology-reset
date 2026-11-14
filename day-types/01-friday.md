@@ -30,9 +30,9 @@ flowchart TD
     E --> G["🧹 Dishes<br/>both boys, together"]
     G --> H["🗑️ Garbage/recycling<br/>to garage — as needed"]
     H --> I["🎮 Free time"]
-    I --> J["📱 Parent collects iPads<br/>TBD ~9:30pm — ALL screens"]
+    I --> J["📱 Parent collects iPads<br/>9:30pm — ALL screens"]
     J --> K["🌙 Wind down<br/>screen-free until bedtime"]
-    K --> L["🛏️ Bedtime<br/>TBD ~10:00pm"]
+    K --> L["🛏️ Bedtime<br/>10:00pm"]
 
     style C fill:#e74c3c
     style DG fill:#7bc950
@@ -56,9 +56,9 @@ flowchart TD
     E --> G["🧹 Dishes<br/>both boys, together"]
     G --> H["🗑️ Garbage/recycling<br/>to garage — as needed"]
     H --> I["🎮 Free time"]
-    I --> J["🔇 Screens off<br/>TBD ~9:30pm — ALL screens<br/>self-managed, scored"]
+    I --> J["🔇 Screens off<br/>9:30pm — ALL screens<br/>self-managed, scored"]
     J --> K["🌙 Wind down<br/>screen-free until bedtime"]
-    K --> L["🛏️ Bedtime<br/>TBD ~10:00pm"]
+    K --> L["🛏️ Bedtime<br/>10:00pm"]
 
     style A fill:#4a90d9
     style J fill:#f39c12
@@ -78,8 +78,8 @@ flowchart TD
 | Garbage/recycling | Bins to garage — done as needed (alternates daily). Part of the floor, not a screen gate. |
 | Dishes | After dinner, both boys, together |
 | Impromptu | Help with anything else we ask — as needed, as directed, no pushback. |
-| Screens off | TBD ~9:30pm — ALL screens, no exceptions |
-| Bedtime | TBD ~10:00pm (same as Saturday) |
+| Screens off | 9:30pm — ALL screens, no exceptions |
+| Bedtime | 10:00pm (same as Saturday) |
 
 ## Friday Pass Down (when Aaron gets home from work — both phases)
 

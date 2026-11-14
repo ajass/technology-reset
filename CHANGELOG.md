@@ -4,6 +4,14 @@ All notable changes to the technology reset plan, tracked by date.
 
 ## 2026-11-13 (Session 3)
 
+### Changed — Bedtimes Set (TBD removed)
+
+Replaced all TBD/proposed bedtime and screens-off times with concrete values:
+- Weekdays (Mon-Thu, Sunday evening): screens off at 9pm, lights out at 9:30pm
+- Friday and Saturday: screens off at 9:30pm, lights out at 10pm
+
+Updated in: day-types/01-friday.md, day-types/02-saturday.md (flowcharts and rules tables),, floor-expectations.md (evening rules). Open item #1 (weekend bedtime) marked RESOLVED.
+
 ### Added — Impromptu Help on All Floor Checklists
 
 Added "Help with anything else we ask — as needed, as directed, no pushback" as the last item on every day type's before-screens checklist (both Phase 1 and Phase 2). Ensures the boys see the impromptu expectation every time they check the list, not just in the universal rules.
@@ -126,7 +134,7 @@ Updated all date references across README, floor-expectations, kid-presentation,
 - **Floor document sections reordered** to mirror timeline (Friday → Saturday → Sunday → School Day → Weekday Off) since we get them on Friday.
 
 ### Open
-- Weekend bedtime — Aaron proposing +30 min max. Denise wants later. TBD.
+- Weekend bedtime — RESOLVED. Friday/Saturday: screens off 9:30pm, lights out 10pm. Weekdays: screens off 9pm, lights out 9:30pm.
 - Reels before bed — 9pm rule includes reels. Denise's routine, her decision to move earlier or end.
 - Family dinner frequency — how many nights mandatory? Which nights flexible?
 - Physical activity — floor item (tracked) or just encouraged?

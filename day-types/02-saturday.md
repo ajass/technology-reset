@@ -33,8 +33,8 @@ flowchart TD
     H --> J["🧹 Dishes<br/>both boys, together"]
     J --> K["🗑️ Garbage/recycling<br/>to garage — as needed"]
     K --> L["🎮 Free time"]
-    L --> M["📱 Parent collects iPads<br/>TBD ~9:30pm — ALL screens"]
-    M --> N["🛏️ Bedtime<br/>TBD ~10:00pm"]
+    L --> M["📱 Parent collects iPads<br/>9:30pm — ALL screens"]
+    M --> N["🛏️ Bedtime<br/>10:00pm"]
 
     style AM fill:#7bc950
     style C fill:#e74c3c
@@ -67,8 +67,8 @@ flowchart TD
     H --> J["🧹 Dishes<br/>both boys, together"]
     J --> K["🗑️ Garbage/recycling<br/>to garage — as needed"]
     K --> L["🎮 Free time"]
-    L --> M["🔇 Screens off<br/>TBD ~9:30pm — ALL screens<br/>self-managed, scored"]
-    M --> N["🛏️ Bedtime<br/>TBD ~10:00pm"]
+    L --> M["🔇 Screens off<br/>9:30pm — ALL screens<br/>self-managed, scored"]
+    M --> N["🛏️ Bedtime<br/>10:00pm"]
 
     style C fill:#e74c3c
     style F fill:#7bc950
@@ -95,8 +95,8 @@ flowchart TD
 | Before screens | Weekly chores done first. |
 | Garbage/recycling | Done as needed (alternates daily). Part of the floor, not a screen gate. |
 | Dishes | After dinner, both boys, together. |
-| Screens off | TBD ~9:30pm — ALL screens, no exceptions. |
-| Bedtime | TBD ~10:00pm. |
+| Screens off | 9:30pm — ALL screens, no exceptions. |
+| Bedtime | 10:00pm. |
 | Impromptu | When asked to help (decorations, Costco, etc.), help. No pushback. |
 
 ## Key Transitions
