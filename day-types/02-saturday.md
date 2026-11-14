@@ -21,7 +21,7 @@ flowchart TD
     C --> D["🧺 Parent checks weekly chores"]
     D --> D1["👕 Laundry<br/>wash, dry, put away"]
     D --> D2["🧹 Vacuum<br/>downstairs + upstairs"]
-    D --> D3["🚽 Clean bathroom<br/>rotation TBD"]
+    D --> D3["🚽 Clean bathroom"]
     D1 --> E{"Parent verifies<br/>all chores done?"}
     D2 --> E
     D3 --> E
@@ -56,7 +56,7 @@ flowchart TD
     C --> D["🧺 Weekly chores<br/>self-managed"]
     D --> D1["👕 Laundry<br/>wash, dry, put away"]
     D --> D2["🧹 Vacuum<br/>downstairs + upstairs"]
-    D --> D3["🚽 Clean bathroom<br/>rotation TBD"]
+    D --> D3["🚽 Clean bathroom"]
     D1 --> E{"Chores done?"}
     D2 --> E
     D3 --> E
@@ -84,7 +84,7 @@ flowchart TD
 
 - [ ] Laundry: wash, dry, and start putting away your own clothes
 - [ ] Vacuum: downstairs and upstairs
-- [ ] Clean bathroom (rotation TBD with Denise)
+- [ ] Clean bathroom
 - [ ] Help with anything else we ask — as needed, as directed, no pushback
 
 ## Rules (both phases)

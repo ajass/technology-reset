@@ -4,6 +4,12 @@ All notable changes to the technology reset plan, tracked by date.
 
 ## 2026-11-13 (Session 3)
 
+### Changed — Removed All Remaining TBDs
+
+Removed last TBD references (garbage/recycling rotation, bathroom cleaning rotation). Rotations are figured out — as long as it gets done. No TBDs remain anywhere in the repo.
+
+Updated in: day-types/02-saturday.md (flowcharts and checklist),, floor-expectations.md (garbage line, bathroom line, open items #6 and #7 removed). CHANGELOG open items marked RESOLVED.
+
 ### Changed — Bedtimes Set (TBD removed)
 
 Replaced all TBD/proposed bedtime and screens-off times with concrete values:
@@ -139,5 +145,5 @@ Updated all date references across README, floor-expectations, kid-presentation,
 - Family dinner frequency — how many nights mandatory? Which nights flexible?
 - Physical activity — floor item (tracked) or just encouraged?
 - Game evaluation criteria — what makes a game approved or denied?
-- Garbage/recycling rotation — TBD with Denise. Who starts first?
-- Bathroom cleaning rotation — TBD with Denise. What schedule have they worked out?
+- Garbage/recycling rotation — RESOLVED. Figured out — as long as it gets done.
+- Bathroom cleaning rotation — RESOLVED. Figured out — as long as it gets done.

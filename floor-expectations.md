@@ -88,7 +88,7 @@ Not homework:
 ### Evening Rules (both phases)
 
 - Dishes after dinner (both boys, together)
-- Garbage and recycling bins taken out to garage — done as needed (alternates daily: Sean / Liam — rotation TBD with Denise)
+- Garbage and recycling bins taken out to garage — done as needed (alternates daily: Sean / Liam)
 - Screens off at 9:30pm — **ALL screens** (gaming, YouTube, TV, reels, phones, iPads). No exceptions.
 - Bedtime at 10:00pm
 
@@ -121,7 +121,7 @@ Not homework:
 
 - Laundry: wash, dry, and start putting away your own clothes
 - Vacuum: downstairs and upstairs
-- Clean bathroom (they already do this — rotation TBD with Denise)
+- Clean bathroom (they already do this)
 - Help with anything else we ask — as needed, as directed, no pushback.
 
 ### Evening Rules (both phases)
@@ -329,6 +329,4 @@ Not homework:
 3. **Family dinner frequency** — how many nights mandatory? Which nights flexible for friend plans?
 4. **Physical activity** — floor item (tracked) or just encouraged?
 5. **Game evaluation criteria** — what makes a game approved or denied?
-6. **Garbage/recycling rotation** — TBD with Denise. Who starts first?
-7. **Bathroom cleaning rotation** — TBD with Denise. What schedule have they worked out?
-8. **Physical iPad gating vs. parental controls** — Aaron prefers physically holding iPads until floor is verified (simpler, no software to manage). Denise may prefer parental controls software to achieve the same gating. Open for discussion.
+6. **Physical iPad gating vs. parental controls** — Aaron prefers physically holding iPads until floor is verified (simpler, no software to manage). Denise may prefer parental controls software to achieve the same gating. Open for discussion.
