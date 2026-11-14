@@ -20,9 +20,11 @@ Four categories, tracked daily for each boy (Sean and Liam scored separately).
 
 ### Homework
 
+> **Parent-checked for quality in both phases.** In Phase 2, boys do homework on their own timeline, but parent verifies quality before screens: "Show me what you did."
+
 | Green | Yellow | Red |
 |-------|--------|-----|
-| Done on time, no reminder | Done, but needed a reminder | Late or not done |
+| Done well, no rushing | Done, but rushed/sloppy or needed a reminder | Late, not done, or refused |
 
 ### Chores
 

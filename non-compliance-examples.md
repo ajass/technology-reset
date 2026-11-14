@@ -24,11 +24,13 @@ The scores are about **behavior, not mood.** If they comply but grumble, that's 
 
 ## Homework
 
+> **Homework is parent-checked for quality in both phases.** In Phase 1, the parent checks completion and quality. In Phase 2, boys do homework on their own timeline, but parent still verifies quality before screens: "Show me what you did." Rushed or sloppy work doesn't count as done.
+
 | Score | What it means | Phase 1 Example | Phase 2 Example |
 |-------|---------------|-----------------|-----------------|
-| /green Green | Done on time, no reminder | Sean comes home, has a math worksheet. Aaron says "homework first." Sean does it, shows Aaron, then gets screens. | Sean comes home, does his math worksheet before getting on Roblox. No one had to tell him. |
-| /yellow Yellow | Done, but needed a reminder | Liam gets home, gets on his iPad. Aaron says "homework first." Liam does it, then gets screens. | Liam gets home, gets on his iPad. Aaron checks: "did you do your homework?" Liam says "oh, not yet," gets off, does it, then screens. |
-| /red Red | Late or not done | Sean has a reading assignment. Aaron checks, Sean hasn't done it. Aaron says "do it now." Sean refuses: "I'll do it later." It doesn't get done that night. | Sean has a reading assignment. Gets on screens instead. When Aaron asks, says "I'll do it later." It doesn't get done that night. |
+| /green Green | Done well, no rushing | Sean comes home, has a math worksheet. Aaron says "homework first." Sean does it, shows Aaron, it's done well. Then gets screens. | Sean comes home, does his math worksheet before getting on Roblox. When Aaron checks, it's done well. No one had to tell him. Screens. |
+| /yellow Yellow | Done, but rushed/sloppy or needed a reminder | Liam gets home, gets on his iPad. Aaron says "homework first." Liam does it, shows Aaron, but it's rushed — sloppy work. Aaron says "do it properly, then screens." Liam fixes it, then gets screens. | Liam gets home, gets on his iPad. Aaron checks: "show me your homework." Liam rushed through it in 5 minutes. It's sloppy. "Fix it, then screens." Liam redoes it properly, then screens. |
+| /red Red | Late, not done, or refused | Sean has a reading assignment. Aaron checks, Sean hasn't done it. Aaron says "do it now." Sean refuses: "I'll do it later." It doesn't get done that night. | Sean says homework is done. Aaron checks — it's not done at all, or it's rushed and Sean refuses to fix it. "I already did it, it's fine." Aaron: "It's not fine. Fix it, then screens." Sean refuses. |
 
 ---
 

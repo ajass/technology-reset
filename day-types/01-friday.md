@@ -9,7 +9,7 @@
 
 **Phase 1 — Baseline (Nov 13-20 and Nov 27-Dec 4):** iPads physically held by parent until homework verified. Parent enforces all transitions. No autonomy yet.
 
-**Phase 2 — Trial (Dec 11+):** Boys self-manage homework and transitions. Parent steers on failure. Pass down stays parent-led.
+**Phase 2 — Trial (Dec 11+):** Boys self-manage homework and transitions. Parent still checks homework quality before screens. Parent steers on failure. Pass down stays parent-led.
 
 ---
 
@@ -49,8 +49,11 @@ flowchart TD
 ```mermaid
 flowchart TD
     A["🏫 Come home<br/>after school"] --> B["🏠 Home<br/>~4:00pm"]
-    B --> C["📚 Homework first<br/>self-managed"]
-    C --> D["🎮 Free time<br/>screens available"]
+    B --> C["📚 Homework first<br/>self-managed, parent checks quality"]
+    C --> Q{"Parent checks quality<br/>show me your work"}
+    Q -->|Yes| D["🎮 Free time<br/>screens available"]
+    Q -->|No| E["⚠️ Fix it, then screens<br/>log Yellow/Red"]
+    E --> D
     D --> PD["📋 Friday pass down<br/>when I get home from work"]
     PD --> E["🍽️ Dinner"]
     E --> G["🧹 Dishes<br/>both boys, together"]
@@ -61,11 +64,13 @@ flowchart TD
     K --> L["🛏️ Bedtime<br/>10:00pm"]
 
     style A fill:#4a90d9
+    style Q fill:#f39c12
+    style D fill:#7bc950
     style J fill:#f39c12
     style L fill:#95a5a6
 ```
 
-**Phase 2 — what's different:** Boys self-manage homework before screens — no parent pre-check. If parent finds screens on with homework undone, redirect and log Yellow/Red. Screens-off and bedtime are self-managed transitions, scored on tracker.
+**Phase 2 — what's different:** Boys do homework on their own timeline — but parent checks quality before screens: "Show me what you did." If homework is rushed, sloppy, or incomplete → "Fix it, then screens." = Yellow. Refuse = Red. Screens-off and bedtime are self-managed transitions, scored on tracker.
 
 ---
 

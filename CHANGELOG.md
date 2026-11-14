@@ -4,6 +4,14 @@ All notable changes to the technology reset plan, tracked by date.
 
 ## 2026-11-13 (Session 3)
 
+### Changed — Homework Quality Stays Parent-Checked in Both Phases
+
+Homework (including instrument practice) is the one floor item that doesn't go to full autonomy in Phase 2. Boys do homework on their own timeline (when, how — that's the autonomy piece), but parent verifies quality before screens: "Show me what you did." Rushed or sloppy work doesn't count as done — "Fix it, then screens" = Yellow.
+
+Chores, bedtime, screen transitions remain binary and go to full self-management in Phase 2. Homework quality is not binary — a 12-year-old can't reliably self-assess quality.
+
+Updated across: all day-type Phase 2 flowcharts (added "Parent checks quality" node),, floor-expectations (Phase 2 sections, "What Changes" section),, README (Phase 2 description),, kid-presentation (Step 2 now tells boys "show us your work before screens"),, fridge sheet (Starting Dec 11 section),, non-compliance-examples (Homework table updated with quality dimension),, tracker-reference (Homework legend updated).
+
 ### Changed — Removed All Remaining TBDs
 
 Removed last TBD references (garbage/recycling rotation, bathroom cleaning rotation). Rotations are figured out — as long as it gets done. No TBDs remain anywhere in the repo.

@@ -79,8 +79,8 @@ Not homework:
 
 ### Phase 2 — Trial
 
-- Boys self-manage homework before screens — no parent pre-check
-- If parent finds screens on with homework undone → redirect, log Yellow/Red
+- Boys do homework on their own timeline — but parent checks quality before screens: "Show me what you did."
+- If homework is rushed/sloppy/incomplete → "Fix it, then screens." = Yellow. Refuse = Red.
 - Boys self-manage dishes, garbage (parent reminds only if not done)
 - Parent still initiates pass down (this is a parent-led conversation, not a floor item)
 - Screens off and bedtime are self-managed transitions (scored on tracker)
@@ -191,8 +191,8 @@ Not homework:
 
 ### Phase 2 — Trial
 
-- Boys self-manage homework before screens — no parent pre-check
-- If parent finds screens on with homework undone → redirect, log Yellow/Red
+- Boys do homework on their own timeline — but parent checks quality before screens: "Show me what you did."
+- If homework is rushed/sloppy/incomplete → "Fix it, then screens." = Yellow. Refuse = Red.
 - Boys self-manage dishes and garbage (parent reminds only if not done)
 - 9pm screens off is a self-managed transition (scored on tracker — do they stop when asked, or push back?)
 
@@ -292,8 +292,9 @@ Not homework:
 - We step back from routine monitoring of conversations (safety protections stay)
 - They get more say in how they spend free time, within the floor
 - We shift from "enforcing screen limits" to "checking in on how things are going"
-- Parents stop pre-checking the floor before screens — boys self-manage
+- Parents stop pre-checking the floor before screens — boys self-manage (except homework quality)
 - iPads no longer physically held by parent — boys have access and self-manage
+- Homework quality stays parent-checked in both phases — "Show me what you did" before screens
 - If floor unmet while on screens: redirect (Phase 2) instead of gate (Phase 1)
 
 ---

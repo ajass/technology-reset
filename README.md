@@ -32,7 +32,7 @@ This is the core of the plan. The floor (homework, chores, family participation)
 **What happens:** The floor is already established (from Phase 1). Boys get screen autonomy — they self-manage their free time. Parents step back from pre-checking and instead steer on failure.
 
 **How it works:**
-- Boys self-manage: they do homework, chores, and transitions on their own
+- Boys do homework, chores, and transitions on their own (homework: parent still checks quality before screens — "Show me what you did")
 - If a parent finds them on screens with the floor unmet, they redirect: "Get it done, then screens are back." Comply = Yellow. Refuse = Red.
 - No pre-check gate — the floor is their responsibility to meet
 - Tracker data continues daily

@@ -8,7 +8,7 @@
 
 **Phase 1 — Baseline (Nov 13-20 and Nov 27-Dec 4):** iPads physically held by parent until homework verified. Parent checks when available — boys may wait while Denise finishes meetings. No autonomy yet.
 
-**Phase 2 — Trial (Dec 11+):** Boys self-manage homework before screens. Parent steers on failure. Evening transitions self-managed and scored.
+**Phase 2 — Trial (Dec 11+):** Boys self-manage homework before screens — but parent checks quality. Parent steers on failure. Evening transitions self-managed and scored.
 
 ---
 
@@ -47,10 +47,10 @@ flowchart TD
 
 ```mermaid
 flowchart TD
-    A["🏠 Get home<br/>~4:00pm"] --> B["📚 Homework first<br/>self-managed"]
-    B --> C{"Done?"}
+    A["🏠 Get home<br/>~4:00pm"] --> B["📚 Homework first<br/>self-managed, parent checks quality"]
+    B --> C{"Parent checks quality<br/>show me your work"}
     C -->|Yes| D["🎮 Free time<br/>screens available"]
-    C -->|No| E["⚠️ Parent redirects:<br/>finish, then screens<br/>log Yellow/Red"]
+    C -->|No| E["⚠️ Fix it, then screens<br/>log Yellow/Red"]
     E --> D
     D --> F["🍽️ Dinner<br/>~6:00pm"]
     F --> H["🧹 Dishes<br/>both boys, together"]
@@ -61,12 +61,13 @@ flowchart TD
     L --> M["🛏️ Bedtime<br/>9:30pm"]
 
     style A fill:#4a90d9
+    style C fill:#f39c12
     style D fill:#7bc950
     style K fill:#e74c3c
     style M fill:#95a5a6
 ```
 
-**Phase 2 — what's different:** Boys self-manage homework before screens — no parent pre-check. If parent finds screens on with homework undone, redirect and log Yellow/Red. 9pm screens-off is self-managed and scored — do they stop when asked, or push back?
+**Phase 2 — what's different:** Boys do homework on their own timeline — but parent checks quality before screens: "Show me what you did." If homework is rushed, sloppy, or incomplete → "Fix it, then screens." = Yellow. Refuse = Red. 9pm screens-off is self-managed and scored — do they stop when asked, or push back?
 
 ---
 
@@ -89,7 +90,7 @@ flowchart TD
 
 ## Key Transitions
 
-1. **4:00pm arrival → wait → homework check.** Boys come home, iPads are with Denise. If Denise is in meetings, boys wait and do homework. When Denise is free, she checks homework and hands over iPads. Phase 2: self-managed — no wait, no parent check.
+1. **4:00pm arrival → wait → homework quality check.** Boys come home, iPads are with Denise. If Denise is in meetings, boys wait and do homework. When Denise is free, she checks homework quality and hands over iPads. Phase 2: boys do homework on their own timeline, but parent still checks quality before screens — "Show me what you did."
 2. **9:00pm screens off.** All screens off. The wind-down to bedtime is screen-free. Phase 1: parent collects iPads. Phase 2: self-managed and scored — do they stop when asked, or push back?
 
 ---

@@ -22,7 +22,9 @@ These two weeks are about getting used to the floor and seeing where you're at.
 
 After the first baseline week, you go to your dad's for a week. When you come back on November 27, we do one more week of baseline — same rules, same structure. Then you go to your dad's again. When you come back on December 11, things change.
 
-We're going to stop micromanaging your screen time. During your free time, you can decide how to spend it. If you want to play Roblox or Minecraft with your friends, that's your call. We're not going to be standing over you with a timer anymore. We're not going to pre-check your homework or your chores before you get on screens. You'll have your iPads — we won't be holding onto them anymore. That's on you now.
+We're going to stop micromanaging your screen time. During your free time, you can decide how to spend it. If you want to play Roblox or Minecraft with your friends, that's your call. We're not going to be standing over you with a timer anymore. We're not going to pre-check your chores before you get on screens. You'll have your iPads — we won't be holding onto them anymore. That's on you now.
+
+But homework is the one thing that stays parent-checked. You do it on your own time — we're not telling you when to do it. But you have to show us your work before screens. Doing it fast and sloppy doesn't count. If we check it and it's not good enough, you fix it, then screens. Same with instrument practice — actually practice, don't just get it out and say you're done.
 
 Here's the deal: if we find you on screens and your stuff isn't done, we'll redirect you. "Get it done, then screens are back." That's not a punishment — it's just the sequence. If you comply, even if you grumble, that's a yellow on the tracker. If you refuse, that's a red.
 
